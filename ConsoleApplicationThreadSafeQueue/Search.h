@@ -12,7 +12,7 @@ int numQuastionMask(const std::string& mask);
 int cols_eq_chars(int pos, const std::string& subject, const std::string& mask);
 
 // возвращает позицию вхождения маски, 0 - если не существует в строке
-int Col(const std::string& subject, const std::string& mask);
+int Col(std::string& subject, const std::string& mask);
 bool match(const std::string& subject, const std::string& mask);
 
 

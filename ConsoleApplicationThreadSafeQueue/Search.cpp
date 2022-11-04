@@ -34,7 +34,7 @@ int cols_eq_chars(int pos, const std::string& subject, const std::string& mask)
 }
 
 // возвращает позицию вхождения маски, 0 - если не существует в строке
-int Col(const std::string& subject, const std::string& mask)
+int Col(std::string& subject, const std::string& mask)
 {
 	int cols = 0;
 	int pos = 0;
@@ -43,6 +43,7 @@ int Col(const std::string& subject, const std::string& mask)
 	{
 		int num = cols_eq_chars(i, subject, mask);
 		if (num == mask.length() - _numQuestionMask) {
+			subject = subject.substr(i,mask.length());
 			pos = i;
 			break;
 		}
@@ -179,10 +180,10 @@ void FindSearch(
 			{
 				InfoSearchStroka iS;
 				iS.pos = pos;
-				iS.line = _std.stroki[k];
+				iS.line = line;  _std.stroki[k];
 				iS.num = k + 1 + _std.nn * numStrokiKvant;
 				safe_ResultSearch.insert(std::map<int, InfoSearchStroka>::value_type(iS.num, iS));
-				std::cerr << "FIND!!! [" << iS.num << "] -----------  number stroka.\n";
+				std::cerr << "FIND!!! [" << iS.num<< "|"<<line << "] -----------  number stroka.\n";
 				//cout << " [pos:" << iS.pos << "][num:"<< iS.num <<"]" << endl;
 
 			}

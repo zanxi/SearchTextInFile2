@@ -2,11 +2,11 @@ file: test2__.txt | mask: 54??
 
 4
 
- 8 104 <a href=""> <img src="https://pad.mymovies.it/img/image/?image=https://pad.mymovies.it/cinemanews/2010/35480/cavallari.jpg&size=800" 
+ 8 104 5480
 
- 20 178 <li><a href="https://www.google.ru/search?q=c%2B%2B+cdialog+background+&newwindow=1&authuser=1&hl=ru&biw=1880&bih=939&tbs=li%3A1&sxsrf=ALiCzsaMOaoejVKaJOhsECi5cyEl1JPfzQ%3A1663425439861&ei=n9slY46ZNKr3qwHZhrPQDg&ved=0ahUKEwjO5M_Thpz6AhWq-yoKHVnDDOoQ4dUDCA0&uact=5&oq=c%2B%2B+cdialog+background+&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEB4QFjoHCAAQHhCwAzoJCAAQHhCwAxAIOgcIABAeEKIEOgUIABCiBEoECEEYAUoECEYYAFDQBljOG2C3HWgBcAB4AIABbIgBtAGSAQMxLjGYAQCgAQHIAQLAAQE&sclient=gws-wiz" target="_blank"> google.com - c++ cdialog background </a></li>
+ 20 178 5439
 
- 21 182 <li><a href="https://www.google.ru/search?q=c%2B%2B+cdialog+movetoex+lineto&newwindow=1&authuser=1&hl=ru&biw=1880&bih=939&tbs=li%3A1&sxsrf=ALiCzsbAnYkraHnZbQ5eCA2Xv6q6VisgXA%3A1663425446894&ei=ptslY7yTNuuurgTMzK3wCw&ved=0ahUKEwi8_vzWhpz6AhVrl4sKHUxmC74Q4dUDCA0&uact=5&oq=c%2B%2B+cdialog+movetoex+lineto&gs_lcp=Cgdnd3Mtd2l6EAMyBQghEKABMgUIIRCgATIFCCEQoAEyBQghEKABOgYIABAeEBY6BAgjECc6BAghEBU6BwghEKABEApKBAhBGABKBAhGGABQAFi6YWD6Z2gAcAB4AIABsAGIAaMTkgEEMTYuOZgBAKABAcABAQ&sclient=gws-wiz" target="_blank"> google.com - c++ cdialog movetoex lineto </a></li>
+ 21 182 5446
 
- 25 184 <li><a href="https://www.google.ru/search?q=c%2B%2B+mfc+3d+rotation+github&newwindow=1&hl=ru&authuser=1&biw=1880&bih=939&tbs=li%3A1&sxsrf=ALiCzsadUe6dvDroSrINwMSkClGuDP98xw%3A1663440625412&ei=8RYmY9ztGIWwrgSNhorAAg&ved=0ahUKEwicqtScv5z6AhUFmIsKHQ2DAigQ4dUDCA0&uact=5&oq=c%2B%2B+mfc+3d+rotation+github&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEKIEMgUIABCiBDIFCAAQogQyBQgAEKIEOggIABCiBBCwAzoFCCEQoAE6BwghEKABEAo6BAghEBVKBAhBGAFKBAhGGABQ6AZY8xFgkxRoAXAAeACAAegBiAHoBZIBBTMuMi4xmAEAoAEByAEEwAEB&sclient=gws-wiz" target="_blank"> google.com - c++ mfc 3d rotation github </a></li>
+ 25 184 5412
 

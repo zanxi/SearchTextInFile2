@@ -1,1 +1,1 @@
-mtfind.exe test4.txt pro?te
+mtfind.exe test4.txt prote??????

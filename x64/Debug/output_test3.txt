@@ -2,185 +2,185 @@ file: test3.txt | mask: AB
 
 91
 
- 295 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 295 31 AB
 
- 592 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 592 31 AB
 
- 889 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 889 31 AB
 
- 1186 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 1186 31 AB
 
- 1483 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 1483 31 AB
 
- 1780 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 1780 31 AB
 
- 2077 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 2077 31 AB
 
- 2374 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 2374 31 AB
 
- 2671 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 2671 31 AB
 
- 2968 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 2968 31 AB
 
- 3265 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 3265 31 AB
 
- 3562 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 3562 31 AB
 
- 3859 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 3859 31 AB
 
- 4156 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 4156 31 AB
 
- 4453 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 4453 31 AB
 
- 4750 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 4750 31 AB
 
- 5047 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 5047 31 AB
 
- 5344 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 5344 31 AB
 
- 5641 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 5641 31 AB
 
- 5938 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 5938 31 AB
 
- 6235 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 6235 31 AB
 
- 6532 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 6532 31 AB
 
- 6829 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 6829 31 AB
 
- 7126 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 7126 31 AB
 
- 7423 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 7423 31 AB
 
- 7720 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 7720 31 AB
 
- 8017 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 8017 31 AB
 
- 8314 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 8314 31 AB
 
- 8611 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 8611 31 AB
 
- 8908 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 8908 31 AB
 
- 9205 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 9205 31 AB
 
- 9502 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 9502 31 AB
 
- 9799 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 9799 31 AB
 
- 10096 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 10096 31 AB
 
- 10393 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 10393 31 AB
 
- 10690 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 10690 31 AB
 
- 10987 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 10987 31 AB
 
- 11284 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 11284 31 AB
 
- 11581 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 11581 31 AB
 
- 11878 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 11878 31 AB
 
- 12175 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 12175 31 AB
 
- 12472 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 12472 31 AB
 
- 12769 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 12769 31 AB
 
- 13066 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 13066 31 AB
 
- 13363 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 13363 31 AB
 
- 13660 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 13660 31 AB
 
- 13957 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 13957 31 AB
 
- 14254 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 14254 31 AB
 
- 14551 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 14551 31 AB
 
- 14848 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 14848 31 AB
 
- 15145 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 15145 31 AB
 
- 15442 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 15442 31 AB
 
- 15739 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 15739 31 AB
 
- 16036 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 16036 31 AB
 
- 16333 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 16333 31 AB
 
- 16630 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 16630 31 AB
 
- 16927 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 16927 31 AB
 
- 17224 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 17224 31 AB
 
- 17521 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 17521 31 AB
 
- 17818 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 17818 31 AB
 
- 18115 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 18115 31 AB
 
- 18412 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 18412 31 AB
 
- 18709 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 18709 31 AB
 
- 19006 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 19006 31 AB
 
- 19303 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 19303 31 AB
 
- 19600 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 19600 31 AB
 
- 19897 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 19897 31 AB
 
- 20194 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 20194 31 AB
 
- 20491 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 20491 31 AB
 
- 20788 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 20788 31 AB
 
- 21085 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 21085 31 AB
 
- 21382 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 21382 31 AB
 
- 21679 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 21679 31 AB
 
- 21976 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 21976 31 AB
 
- 22273 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 22273 31 AB
 
- 23338 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 23338 31 AB
 
- 24403 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 24403 31 AB
 
- 25468 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 25468 31 AB
 
- 26533 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 26533 31 AB
 
- 27598 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 27598 31 AB
 
- 28663 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 28663 31 AB
 
- 29728 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 29728 31 AB
 
- 30793 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 30793 31 AB
 
- 31858 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 31858 31 AB
 
- 32923 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 32923 31 AB
 
- 33988 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 33988 31 AB
 
- 35053 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 35053 31 AB
 
- 36118 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 36118 31 AB
 
- 37183 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 37183 31 AB
 
- 38248 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 38248 31 AB
 
- 39313 31 	hexDigit           = digit + "ABCDEFabcdef".
+ 39313 31 AB
 
