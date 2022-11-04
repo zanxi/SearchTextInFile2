@@ -1,1 +1,1 @@
-mtfind.exe test2__.txt AB
+mtfind.exe test2__.txt 54??
