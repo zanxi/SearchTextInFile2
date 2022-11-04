@@ -1,0 +1,1 @@
+mtfind.exe test3.txt AB

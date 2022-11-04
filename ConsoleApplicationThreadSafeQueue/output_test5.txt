@@ -1,0 +1,6 @@
+file: test5.txt | mask: aB
+
+1
+
+ 26 153 endstreamendobj8 0 obj<</Metadata 5 0 R/Pages 4 0 R/Type/Catalog>>endobj9 0 obj<</CropBox[0 3272 609 3932]/Parent 4 0 R/Contents 10 0 R/Rotate 0/MediaBox[0 3272 609 3932]/Resources<</XObject<</2 11 0 R/3 12 0 R/4 13 0 R/5 14 0 R/6 15 0 R/7 16 0 R/8 17 0 R>>/ProcSet[/PDF/ImageB]>>/Type/Page>>endobj10 0 obj<</Length 176/Filter/FlateDecode>>stream
+

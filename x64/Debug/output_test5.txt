@@ -1,0 +1,8 @@
+file: test5.txt | mask: 536
+
+2
+
+ 2 62 7 0 obj <</Linearized 1/L 121480/O 9/E 50181/N 2/T 121294/H [ 536 154]>>endobj                  
+
+ 16 7 0000000536 00000 n
+

@@ -1,0 +1,1198 @@
+file: test3.txt | mask: quali???t
+
+597
+
+ 143 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 144 19  * and returns the qualident string                          *
+
+ 146 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 147 1 	qualident = "";
+
+ 149 2 		qualident = pt.val;
+
+ 154 3 			qualident += "." + pt.val;
+
+ 440 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 441 19  * and returns the qualident string                          *
+
+ 443 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 444 1 	qualident = "";
+
+ 446 2 		qualident = pt.val;
+
+ 451 3 			qualident += "." + pt.val;
+
+ 737 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 738 19  * and returns the qualident string                          *
+
+ 740 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 741 1 	qualident = "";
+
+ 743 2 		qualident = pt.val;
+
+ 748 3 			qualident += "." + pt.val;
+
+ 1034 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 1035 19  * and returns the qualident string                          *
+
+ 1037 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 1038 1 	qualident = "";
+
+ 1040 2 		qualident = pt.val;
+
+ 1045 3 			qualident += "." + pt.val;
+
+ 1331 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 1332 19  * and returns the qualident string                          *
+
+ 1334 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 1335 1 	qualident = "";
+
+ 1337 2 		qualident = pt.val;
+
+ 1342 3 			qualident += "." + pt.val;
+
+ 1628 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 1629 19  * and returns the qualident string                          *
+
+ 1631 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 1632 1 	qualident = "";
+
+ 1634 2 		qualident = pt.val;
+
+ 1639 3 			qualident += "." + pt.val;
+
+ 1925 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 1926 19  * and returns the qualident string                          *
+
+ 1928 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 1929 1 	qualident = "";
+
+ 1931 2 		qualident = pt.val;
+
+ 1936 3 			qualident += "." + pt.val;
+
+ 2222 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 2223 19  * and returns the qualident string                          *
+
+ 2225 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 2226 1 	qualident = "";
+
+ 2228 2 		qualident = pt.val;
+
+ 2233 3 			qualident += "." + pt.val;
+
+ 2519 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 2520 19  * and returns the qualident string                          *
+
+ 2522 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 2523 1 	qualident = "";
+
+ 2525 2 		qualident = pt.val;
+
+ 2530 3 			qualident += "." + pt.val;
+
+ 2816 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 2817 19  * and returns the qualident string                          *
+
+ 2819 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 2820 1 	qualident = "";
+
+ 2822 2 		qualident = pt.val;
+
+ 2827 3 			qualident += "." + pt.val;
+
+ 3113 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 3114 19  * and returns the qualident string                          *
+
+ 3116 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 3117 1 	qualident = "";
+
+ 3119 2 		qualident = pt.val;
+
+ 3124 3 			qualident += "." + pt.val;
+
+ 3410 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 3411 19  * and returns the qualident string                          *
+
+ 3413 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 3414 1 	qualident = "";
+
+ 3416 2 		qualident = pt.val;
+
+ 3421 3 			qualident += "." + pt.val;
+
+ 3707 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 3708 19  * and returns the qualident string                          *
+
+ 3710 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 3711 1 	qualident = "";
+
+ 3713 2 		qualident = pt.val;
+
+ 3718 3 			qualident += "." + pt.val;
+
+ 4004 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 4005 19  * and returns the qualident string                          *
+
+ 4007 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 4008 1 	qualident = "";
+
+ 4010 2 		qualident = pt.val;
+
+ 4015 3 			qualident += "." + pt.val;
+
+ 4301 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 4302 19  * and returns the qualident string                          *
+
+ 4304 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 4305 1 	qualident = "";
+
+ 4307 2 		qualident = pt.val;
+
+ 4312 3 			qualident += "." + pt.val;
+
+ 4598 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 4599 19  * and returns the qualident string                          *
+
+ 4601 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 4602 1 	qualident = "";
+
+ 4604 2 		qualident = pt.val;
+
+ 4609 3 			qualident += "." + pt.val;
+
+ 4895 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 4896 19  * and returns the qualident string                          *
+
+ 4898 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 4899 1 	qualident = "";
+
+ 4901 2 		qualident = pt.val;
+
+ 4906 3 			qualident += "." + pt.val;
+
+ 5192 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 5193 19  * and returns the qualident string                          *
+
+ 5195 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 5196 1 	qualident = "";
+
+ 5198 2 		qualident = pt.val;
+
+ 5203 3 			qualident += "." + pt.val;
+
+ 5489 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 5490 19  * and returns the qualident string                          *
+
+ 5492 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 5493 1 	qualident = "";
+
+ 5495 2 		qualident = pt.val;
+
+ 5500 3 			qualident += "." + pt.val;
+
+ 5786 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 5787 19  * and returns the qualident string                          *
+
+ 5789 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 5790 1 	qualident = "";
+
+ 5792 2 		qualident = pt.val;
+
+ 5797 3 			qualident += "." + pt.val;
+
+ 6083 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 6084 19  * and returns the qualident string                          *
+
+ 6086 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 6087 1 	qualident = "";
+
+ 6089 2 		qualident = pt.val;
+
+ 6094 3 			qualident += "." + pt.val;
+
+ 6380 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 6381 19  * and returns the qualident string                          *
+
+ 6383 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 6384 1 	qualident = "";
+
+ 6386 2 		qualident = pt.val;
+
+ 6391 3 			qualident += "." + pt.val;
+
+ 6677 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 6678 19  * and returns the qualident string                          *
+
+ 6680 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 6681 1 	qualident = "";
+
+ 6683 2 		qualident = pt.val;
+
+ 6688 3 			qualident += "." + pt.val;
+
+ 6974 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 6975 19  * and returns the qualident string                          *
+
+ 6977 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 6978 1 	qualident = "";
+
+ 6980 2 		qualident = pt.val;
+
+ 6985 3 			qualident += "." + pt.val;
+
+ 7271 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 7272 19  * and returns the qualident string                          *
+
+ 7274 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 7275 1 	qualident = "";
+
+ 7277 2 		qualident = pt.val;
+
+ 7282 3 			qualident += "." + pt.val;
+
+ 7568 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 7569 19  * and returns the qualident string                          *
+
+ 7571 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 7572 1 	qualident = "";
+
+ 7574 2 		qualident = pt.val;
+
+ 7579 3 			qualident += "." + pt.val;
+
+ 7865 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 7866 19  * and returns the qualident string                          *
+
+ 7868 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 7869 1 	qualident = "";
+
+ 7871 2 		qualident = pt.val;
+
+ 7876 3 			qualident += "." + pt.val;
+
+ 8162 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 8163 19  * and returns the qualident string                          *
+
+ 8165 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 8166 1 	qualident = "";
+
+ 8168 2 		qualident = pt.val;
+
+ 8173 3 			qualident += "." + pt.val;
+
+ 8459 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 8460 19  * and returns the qualident string                          *
+
+ 8462 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 8463 1 	qualident = "";
+
+ 8465 2 		qualident = pt.val;
+
+ 8470 3 			qualident += "." + pt.val;
+
+ 8756 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 8757 19  * and returns the qualident string                          *
+
+ 8759 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 8760 1 	qualident = "";
+
+ 8762 2 		qualident = pt.val;
+
+ 8767 3 			qualident += "." + pt.val;
+
+ 9053 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 9054 19  * and returns the qualident string                          *
+
+ 9056 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 9057 1 	qualident = "";
+
+ 9059 2 		qualident = pt.val;
+
+ 9064 3 			qualident += "." + pt.val;
+
+ 9350 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 9351 19  * and returns the qualident string                          *
+
+ 9353 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 9354 1 	qualident = "";
+
+ 9356 2 		qualident = pt.val;
+
+ 9361 3 			qualident += "." + pt.val;
+
+ 9647 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 9648 19  * and returns the qualident string                          *
+
+ 9650 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 9651 1 	qualident = "";
+
+ 9653 2 		qualident = pt.val;
+
+ 9658 3 			qualident += "." + pt.val;
+
+ 9944 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 9945 19  * and returns the qualident string                          *
+
+ 9947 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 9948 1 	qualident = "";
+
+ 9950 2 		qualident = pt.val;
+
+ 9955 3 			qualident += "." + pt.val;
+
+ 10241 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 10242 19  * and returns the qualident string                          *
+
+ 10244 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 10245 1 	qualident = "";
+
+ 10247 2 		qualident = pt.val;
+
+ 10252 3 			qualident += "." + pt.val;
+
+ 10538 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 10539 19  * and returns the qualident string                          *
+
+ 10541 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 10542 1 	qualident = "";
+
+ 10544 2 		qualident = pt.val;
+
+ 10549 3 			qualident += "." + pt.val;
+
+ 10835 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 10836 19  * and returns the qualident string                          *
+
+ 10838 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 10839 1 	qualident = "";
+
+ 10841 2 		qualident = pt.val;
+
+ 10846 3 			qualident += "." + pt.val;
+
+ 11132 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 11133 19  * and returns the qualident string                          *
+
+ 11135 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 11136 1 	qualident = "";
+
+ 11138 2 		qualident = pt.val;
+
+ 11143 3 			qualident += "." + pt.val;
+
+ 11429 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 11430 19  * and returns the qualident string                          *
+
+ 11432 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 11433 1 	qualident = "";
+
+ 11435 2 		qualident = pt.val;
+
+ 11440 3 			qualident += "." + pt.val;
+
+ 11726 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 11727 19  * and returns the qualident string                          *
+
+ 11729 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 11730 1 	qualident = "";
+
+ 11732 2 		qualident = pt.val;
+
+ 11737 3 			qualident += "." + pt.val;
+
+ 12023 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 12024 19  * and returns the qualident string                          *
+
+ 12026 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 12027 1 	qualident = "";
+
+ 12029 2 		qualident = pt.val;
+
+ 12034 3 			qualident += "." + pt.val;
+
+ 12320 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 12321 19  * and returns the qualident string                          *
+
+ 12323 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 12324 1 	qualident = "";
+
+ 12326 2 		qualident = pt.val;
+
+ 12331 3 			qualident += "." + pt.val;
+
+ 12617 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 12618 19  * and returns the qualident string                          *
+
+ 12620 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 12621 1 	qualident = "";
+
+ 12623 2 		qualident = pt.val;
+
+ 12628 3 			qualident += "." + pt.val;
+
+ 12914 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 12915 19  * and returns the qualident string                          *
+
+ 12917 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 12918 1 	qualident = "";
+
+ 12920 2 		qualident = pt.val;
+
+ 12925 3 			qualident += "." + pt.val;
+
+ 13211 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 13212 19  * and returns the qualident string                          *
+
+ 13214 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 13215 1 	qualident = "";
+
+ 13217 2 		qualident = pt.val;
+
+ 13222 3 			qualident += "." + pt.val;
+
+ 13508 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 13509 19  * and returns the qualident string                          *
+
+ 13511 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 13512 1 	qualident = "";
+
+ 13514 2 		qualident = pt.val;
+
+ 13519 3 			qualident += "." + pt.val;
+
+ 13805 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 13806 19  * and returns the qualident string                          *
+
+ 13808 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 13809 1 	qualident = "";
+
+ 13811 2 		qualident = pt.val;
+
+ 13816 3 			qualident += "." + pt.val;
+
+ 14102 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 14103 19  * and returns the qualident string                          *
+
+ 14105 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 14106 1 	qualident = "";
+
+ 14108 2 		qualident = pt.val;
+
+ 14113 3 			qualident += "." + pt.val;
+
+ 14399 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 14400 19  * and returns the qualident string                          *
+
+ 14402 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 14403 1 	qualident = "";
+
+ 14405 2 		qualident = pt.val;
+
+ 14410 3 			qualident += "." + pt.val;
+
+ 14696 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 14697 19  * and returns the qualident string                          *
+
+ 14699 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 14700 1 	qualident = "";
+
+ 14702 2 		qualident = pt.val;
+
+ 14707 3 			qualident += "." + pt.val;
+
+ 14993 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 14994 19  * and returns the qualident string                          *
+
+ 14996 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 14997 1 	qualident = "";
+
+ 14999 2 		qualident = pt.val;
+
+ 15004 3 			qualident += "." + pt.val;
+
+ 15290 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 15291 19  * and returns the qualident string                          *
+
+ 15293 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 15294 1 	qualident = "";
+
+ 15296 2 		qualident = pt.val;
+
+ 15301 3 			qualident += "." + pt.val;
+
+ 15587 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 15588 19  * and returns the qualident string                          *
+
+ 15590 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 15591 1 	qualident = "";
+
+ 15593 2 		qualident = pt.val;
+
+ 15598 3 			qualident += "." + pt.val;
+
+ 15884 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 15885 19  * and returns the qualident string                          *
+
+ 15887 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 15888 1 	qualident = "";
+
+ 15890 2 		qualident = pt.val;
+
+ 15895 3 			qualident += "." + pt.val;
+
+ 16181 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 16182 19  * and returns the qualident string                          *
+
+ 16184 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 16185 1 	qualident = "";
+
+ 16187 2 		qualident = pt.val;
+
+ 16192 3 			qualident += "." + pt.val;
+
+ 16478 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 16479 19  * and returns the qualident string                          *
+
+ 16481 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 16482 1 	qualident = "";
+
+ 16484 2 		qualident = pt.val;
+
+ 16489 3 			qualident += "." + pt.val;
+
+ 16775 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 16776 19  * and returns the qualident string                          *
+
+ 16778 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 16779 1 	qualident = "";
+
+ 16781 2 		qualident = pt.val;
+
+ 16786 3 			qualident += "." + pt.val;
+
+ 17072 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 17073 19  * and returns the qualident string                          *
+
+ 17075 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 17076 1 	qualident = "";
+
+ 17078 2 		qualident = pt.val;
+
+ 17083 3 			qualident += "." + pt.val;
+
+ 17369 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 17370 19  * and returns the qualident string                          *
+
+ 17372 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 17373 1 	qualident = "";
+
+ 17375 2 		qualident = pt.val;
+
+ 17380 3 			qualident += "." + pt.val;
+
+ 17666 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 17667 19  * and returns the qualident string                          *
+
+ 17669 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 17670 1 	qualident = "";
+
+ 17672 2 		qualident = pt.val;
+
+ 17677 3 			qualident += "." + pt.val;
+
+ 17963 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 17964 19  * and returns the qualident string                          *
+
+ 17966 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 17967 1 	qualident = "";
+
+ 17969 2 		qualident = pt.val;
+
+ 17974 3 			qualident += "." + pt.val;
+
+ 18260 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 18261 19  * and returns the qualident string                          *
+
+ 18263 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 18264 1 	qualident = "";
+
+ 18266 2 		qualident = pt.val;
+
+ 18271 3 			qualident += "." + pt.val;
+
+ 18557 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 18558 19  * and returns the qualident string                          *
+
+ 18560 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 18561 1 	qualident = "";
+
+ 18563 2 		qualident = pt.val;
+
+ 18568 3 			qualident += "." + pt.val;
+
+ 18854 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 18855 19  * and returns the qualident string                          *
+
+ 18857 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 18858 1 	qualident = "";
+
+ 18860 2 		qualident = pt.val;
+
+ 18865 3 			qualident += "." + pt.val;
+
+ 19151 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 19152 19  * and returns the qualident string                          *
+
+ 19154 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 19155 1 	qualident = "";
+
+ 19157 2 		qualident = pt.val;
+
+ 19162 3 			qualident += "." + pt.val;
+
+ 19448 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 19449 19  * and returns the qualident string                          *
+
+ 19451 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 19452 1 	qualident = "";
+
+ 19454 2 		qualident = pt.val;
+
+ 19459 3 			qualident += "." + pt.val;
+
+ 19745 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 19746 19  * and returns the qualident string                          *
+
+ 19748 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 19749 1 	qualident = "";
+
+ 19751 2 		qualident = pt.val;
+
+ 19756 3 			qualident += "." + pt.val;
+
+ 20042 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 20043 19  * and returns the qualident string                          *
+
+ 20045 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 20046 1 	qualident = "";
+
+ 20048 2 		qualident = pt.val;
+
+ 20053 3 			qualident += "." + pt.val;
+
+ 20339 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 20340 19  * and returns the qualident string                          *
+
+ 20342 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 20343 1 	qualident = "";
+
+ 20345 2 		qualident = pt.val;
+
+ 20350 3 			qualident += "." + pt.val;
+
+ 20636 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 20637 19  * and returns the qualident string                          *
+
+ 20639 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 20640 1 	qualident = "";
+
+ 20642 2 		qualident = pt.val;
+
+ 20647 3 			qualident += "." + pt.val;
+
+ 20933 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 20934 19  * and returns the qualident string                          *
+
+ 20936 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 20937 1 	qualident = "";
+
+ 20939 2 		qualident = pt.val;
+
+ 20944 3 			qualident += "." + pt.val;
+
+ 21230 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 21231 19  * and returns the qualident string                          *
+
+ 21233 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 21234 1 	qualident = "";
+
+ 21236 2 		qualident = pt.val;
+
+ 21241 3 			qualident += "." + pt.val;
+
+ 21527 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 21528 19  * and returns the qualident string                          *
+
+ 21530 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 21531 1 	qualident = "";
+
+ 21533 2 		qualident = pt.val;
+
+ 21538 3 			qualident += "." + pt.val;
+
+ 21824 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 21825 19  * and returns the qualident string                          *
+
+ 21827 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 21828 1 	qualident = "";
+
+ 21830 2 		qualident = pt.val;
+
+ 21835 3 			qualident += "." + pt.val;
+
+ 22121 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 22122 19  * and returns the qualident string                          *
+
+ 22124 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 22125 1 	qualident = "";
+
+ 22127 2 		qualident = pt.val;
+
+ 22132 3 			qualident += "." + pt.val;
+
+ 22818 21 Qualident<out string qualident>
+
+ 22819 42 = ident                                (. qualident = t.val; .)
+
+ 22820 42   { IF (DotAndIdent()) "." ident       (. qualident += "." + t.val; .)
+
+ 23186 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 23187 19  * and returns the qualident string                          *
+
+ 23189 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 23190 1 	qualident = "";
+
+ 23192 2 		qualident = pt.val;
+
+ 23197 3 			qualident += "." + pt.val;
+
+ 23883 21 Qualident<out string qualident>
+
+ 23884 42 = ident                                (. qualident = t.val; .)
+
+ 23885 42   { IF (DotAndIdent()) "." ident       (. qualident += "." + t.val; .)
+
+ 24251 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 24252 19  * and returns the qualident string                          *
+
+ 24254 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 24255 1 	qualident = "";
+
+ 24257 2 		qualident = pt.val;
+
+ 24262 3 			qualident += "." + pt.val;
+
+ 24948 21 Qualident<out string qualident>
+
+ 24949 42 = ident                                (. qualident = t.val; .)
+
+ 24950 42   { IF (DotAndIdent()) "." ident       (. qualident += "." + t.val; .)
+
+ 25316 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 25317 19  * and returns the qualident string                          *
+
+ 25319 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 25320 1 	qualident = "";
+
+ 25322 2 		qualident = pt.val;
+
+ 25327 3 			qualident += "." + pt.val;
+
+ 26013 21 Qualident<out string qualident>
+
+ 26014 42 = ident                                (. qualident = t.val; .)
+
+ 26015 42   { IF (DotAndIdent()) "." ident       (. qualident += "." + t.val; .)
+
+ 26381 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 26382 19  * and returns the qualident string                          *
+
+ 26384 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 26385 1 	qualident = "";
+
+ 26387 2 		qualident = pt.val;
+
+ 26392 3 			qualident += "." + pt.val;
+
+ 27078 21 Qualident<out string qualident>
+
+ 27079 42 = ident                                (. qualident = t.val; .)
+
+ 27080 42   { IF (DotAndIdent()) "." ident       (. qualident += "." + t.val; .)
+
+ 27446 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 27447 19  * and returns the qualident string                          *
+
+ 27449 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 27450 1 	qualident = "";
+
+ 27452 2 		qualident = pt.val;
+
+ 27457 3 			qualident += "." + pt.val;
+
+ 28143 21 Qualident<out string qualident>
+
+ 28144 42 = ident                                (. qualident = t.val; .)
+
+ 28145 42   { IF (DotAndIdent()) "." ident       (. qualident += "." + t.val; .)
+
+ 28511 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 28512 19  * and returns the qualident string                          *
+
+ 28514 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 28515 1 	qualident = "";
+
+ 28517 2 		qualident = pt.val;
+
+ 28522 3 			qualident += "." + pt.val;
+
+ 29208 21 Qualident<out string qualident>
+
+ 29209 42 = ident                                (. qualident = t.val; .)
+
+ 29210 42   { IF (DotAndIdent()) "." ident       (. qualident += "." + t.val; .)
+
+ 29576 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 29577 19  * and returns the qualident string                          *
+
+ 29579 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 29580 1 	qualident = "";
+
+ 29582 2 		qualident = pt.val;
+
+ 29587 3 			qualident += "." + pt.val;
+
+ 30273 21 Qualident<out string qualident>
+
+ 30274 42 = ident                                (. qualident = t.val; .)
+
+ 30275 42   { IF (DotAndIdent()) "." ident       (. qualident += "." + t.val; .)
+
+ 30641 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 30642 19  * and returns the qualident string                          *
+
+ 30644 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 30645 1 	qualident = "";
+
+ 30647 2 		qualident = pt.val;
+
+ 30652 3 			qualident += "." + pt.val;
+
+ 31338 21 Qualident<out string qualident>
+
+ 31339 42 = ident                                (. qualident = t.val; .)
+
+ 31340 42   { IF (DotAndIdent()) "." ident       (. qualident += "." + t.val; .)
+
+ 31706 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 31707 19  * and returns the qualident string                          *
+
+ 31709 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 31710 1 	qualident = "";
+
+ 31712 2 		qualident = pt.val;
+
+ 31717 3 			qualident += "." + pt.val;
+
+ 32403 21 Qualident<out string qualident>
+
+ 32404 42 = ident                                (. qualident = t.val; .)
+
+ 32405 42   { IF (DotAndIdent()) "." ident       (. qualident += "." + t.val; .)
+
+ 32771 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 32772 19  * and returns the qualident string                          *
+
+ 32774 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 32775 1 	qualident = "";
+
+ 32777 2 		qualident = pt.val;
+
+ 32782 3 			qualident += "." + pt.val;
+
+ 33468 21 Qualident<out string qualident>
+
+ 33469 42 = ident                                (. qualident = t.val; .)
+
+ 33470 42   { IF (DotAndIdent()) "." ident       (. qualident += "." + t.val; .)
+
+ 33836 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 33837 19  * and returns the qualident string                          *
+
+ 33839 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 33840 1 	qualident = "";
+
+ 33842 2 		qualident = pt.val;
+
+ 33847 3 			qualident += "." + pt.val;
+
+ 34533 21 Qualident<out string qualident>
+
+ 34534 42 = ident                                (. qualident = t.val; .)
+
+ 34535 42   { IF (DotAndIdent()) "." ident       (. qualident += "." + t.val; .)
+
+ 34901 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 34902 19  * and returns the qualident string                          *
+
+ 34904 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 34905 1 	qualident = "";
+
+ 34907 2 		qualident = pt.val;
+
+ 34912 3 			qualident += "." + pt.val;
+
+ 35598 21 Qualident<out string qualident>
+
+ 35599 42 = ident                                (. qualident = t.val; .)
+
+ 35600 42   { IF (DotAndIdent()) "." ident       (. qualident += "." + t.val; .)
+
+ 35966 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 35967 19  * and returns the qualident string                          *
+
+ 35969 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 35970 1 	qualident = "";
+
+ 35972 2 		qualident = pt.val;
+
+ 35977 3 			qualident += "." + pt.val;
+
+ 36663 21 Qualident<out string qualident>
+
+ 36664 42 = ident                                (. qualident = t.val; .)
+
+ 36665 42   { IF (DotAndIdent()) "." ident       (. qualident += "." + t.val; .)
+
+ 37031 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 37032 19  * and returns the qualident string                          *
+
+ 37034 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 37035 1 	qualident = "";
+
+ 37037 2 		qualident = pt.val;
+
+ 37042 3 			qualident += "." + pt.val;
+
+ 37728 21 Qualident<out string qualident>
+
+ 37729 42 = ident                                (. qualident = t.val; .)
+
+ 37730 42   { IF (DotAndIdent()) "." ident       (. qualident += "." + t.val; .)
+
+ 38096 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 38097 19  * and returns the qualident string                          *
+
+ 38099 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 38100 1 	qualident = "";
+
+ 38102 2 		qualident = pt.val;
+
+ 38107 3 			qualident += "." + pt.val;
+
+ 38793 21 Qualident<out string qualident>
+
+ 38794 42 = ident                                (. qualident = t.val; .)
+
+ 38795 42   { IF (DotAndIdent()) "." ident       (. qualident += "." + t.val; .)
+
+ 39161 51 /* Checks whether the next sequence of tokens is a qualident *
+
+ 39162 19  * and returns the qualident string                          *
+
+ 39164 43 bool IsQualident (ref Token pt, out string qualident) {
+
+ 39165 1 	qualident = "";
+
+ 39167 2 		qualident = pt.val;
+
+ 39172 3 			qualident += "." + pt.val;
+
+ 39858 21 Qualident<out string qualident>
+
+ 39859 42 = ident                                (. qualident = t.val; .)
+
+ 39860 42   { IF (DotAndIdent()) "." ident       (. qualident += "." + t.val; .)
+
