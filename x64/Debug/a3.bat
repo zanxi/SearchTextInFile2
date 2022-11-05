@@ -1,1 +1,1 @@
-mtfind.exe test3.txt AB
+mtfind.exe test3.txt z2

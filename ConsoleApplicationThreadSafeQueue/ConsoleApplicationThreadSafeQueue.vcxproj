@@ -140,7 +140,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ConsoleApplicationThreadSafeQueue.cpp" />
+    <ClCompile Include="mtfind.cpp" />
     <ClCompile Include="Search.cpp" />
   </ItemGroup>
   <ItemGroup>

@@ -1,0 +1,429 @@
+<center>
+<font size="5">
+ <div style="background-color:crimson">
+ с++ tcp server client cross platform
+ </div>
+ </font>
+<br><br>
+<a href=""> <img src="https://camo.githubusercontent.com/4a6f09b7cda7070b222b5d5b6ea1ed95a72863714b7448b56fd199369ecfc72e/68747470733a2f2f636c6475702e636f6d2f756b7656565a6d7659562e706e67" 
+ height=300 width=450> </a>
+</center><br>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> ******************************************** 30 августа 2022 Вторник *********************************************** </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="https://www.google.ru/search?q=с%2B%2B+tcp+server+client+cross+platform&hl=ru&sxsrf=ALiCzsYNONizy9E10tIfsgNBIVRIluvB2w%3A1661845633540&ei=gcANY9fOIOOWjgbozJuAAw&ved=0ahUKEwiXk6K1ie75AhVji8MKHWjmBjAQ4dUDCA0&uact=5&oq=с%2B%2B+tcp+server+client+crossplatform&gs_lcp=Cgdnd3Mtd2l6EAMyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEdKBAhBGABKBAhGGABQAFgAYMwFaABwAngAgAEAiAEAkgEAmAEAyAEIwAEB&sclient=gws-wiz" target="_blank"> google.com - с++ tcp server client cross platform </a></li>
+<li><a href="https://www.google.ru/search?q=skype+для+бизнеса+скачать&hl=ru&sxsrf=ALiCzsZ8LQRIJffopiuZVzieO7mm5IGHlw%3A1661868593961&source=hp&ei=MRoOY9e8Npm3xc8P2KSd0AI&iflsig=AJiK0e8AAAAAYw4oQQephOpM3kYW9sYY6BefNDJHRJDP&oq=skype+для+бизнеса+&gs_lcp=Cgdnd3Mtd2l6EAMYADIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6CAgAEIAEELEDOgsIABCABBCxAxCDAToPCAAQgAQQsQMQgwEQChABOggIABCxAxCDAToICC4QgAQQsQM6DAgAELEDEIMBEAoQAToRCC4QgAQQsQMQgwEQxwEQrwE6CQgAEIAEEAoQAToPCC4QgAQQxwEQ0QMQChABOgUILhCABDoLCC4QgAQQxwEQrwE6EQguEIAEEMcBENEDEAoQARAqOg8ILhCABBDHARCvARAKEAE6DAguEIAEENQCEAoQAToSCC4QgAQQxwEQ0QMQ1AIQChABOgkILhCABBAKEAE6CwgAEIAEEAoQARAqOgcIABCABBAKOgwIABCxAxCDARAKECo6BwgAELEDEAo6CggAELEDEIMBEAo6BAgAEApQAFjbKWCTNGgAcAB4AIABUYgB8wOSAQE3mAEAoAEB&sclient=gws-wiz" target="_blank"> google.com - skype для бизнеса скачать </a></li>
+<li><a href="https://www.google.ru/search?q=mtvee+c%2B%2B+github&hl=ru&sxsrf=ALiCzsY_uVh9DHKCJKg34DJJDi1kwSViFg:1661870937426&source=lnt&tbs=li:1&sa=X&ved=2ahUKEwif7YzX5-75AhXwpYsKHcO6A_IQpwV6BAgBECQ&biw=1880&bih=939&dpr=1" target="_blank"> google.com - mtvee c++ github </a></li>
+<li><a href="https://www.google.ru/search?q=c%2B%2B+xml+parser&hl=ru&sxsrf=ALiCzsaxdXlx4CiDekmalUbwmK7dQgo6CA%3A1661868592119&source=hp&ei=MBoOY_K2A6G7xc8PyNG8-Aw&iflsig=AJiK0e8AAAAAYw4oQFkPsKGSPHxY3btLc9mva4MFXo9B&oq=c%2B%2B+xml+&gs_lcp=Cgdnd3Mtd2l6EAMYADIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywE6BwgjEOoCECc6BAgjECc6CwgAEIAEELEDEIMBOhEILhCABBCxAxCDARDHARDRAzoOCC4QgAQQsQMQxwEQ0QM6CAgAEIAEELEDOg0IABCABBCHAhCxAxAUOgoIABCABBCHAhAUOgkIABCABBAKEAFQ1wZYvjJg3T1oAXAAeACAAVCIAaEEkgEBOJgBAKABAbABCg&sclient=gws-wiz" target="_blank"> google.com - c++ xml parser </a></li>
+<li><a href="https://www.google.ru/search?q=c%2B%2B+непредвиденный+конец+файла+во+время+поиска+предкомпилированного+заголовка&hl=ru&sxsrf=ALiCzsaxdXlx4CiDekmalUbwmK7dQgo6CA%3A1661868592119&source=hp&ei=MBoOY_K2A6G7xc8PyNG8-Aw&iflsig=AJiK0e8AAAAAYw4oQFkPsKGSPHxY3btLc9mva4MFXo9B&ved=0ahUKEwjyjt_43u75AhWhXfEDHcgoD88Q4dUDCAY&uact=5&oq=c%2B%2B+непредвиденный+конец+файла+во+время+поиска+предкомпилированного+заголовка&gs_lcp=Cgdnd3Mtd2l6EAM6BAgjECc6CwgAEIAEELEDEIMBOhEILhCABBCxAxCDARDHARDRAzoOCC4QgAQQsQMQxwEQ0QM6CAgAEIAEELEDOg0IABCABBCHAhCxAxAUUABY62Fg42doAHAAeACAAVWIAfUCkgEBNZgBAKABAaABAg&sclient=gws-wiz" target="_blank"> google.com - c++ непредвиденный конец файла во время поиска предкомпилированного заголовка </a></li>
+<li><a href="https://www.google.ru/search?q=c%2B%2B+random+number&bih=939&biw=1880&hl=ru&sxsrf=ALiCzsZJkprVQALksz5Y3lRBP_U7Cq-VJA%3A1661605794000&source=hp&ei=oRcKY6fUONeJxc8Pm4SyKA&iflsig=AJiK0e8AAAAAYwolsrVEcgm1NpF4TwDFnmDTNKYJ_mf9&oq=c%2B%2B+Random&gs_lcp=Cgdnd3Mtd2l6EAMYATIKCAAQgAQQhwIQFDIFCAAQgAQyBQgAEIAEMgoIABCABBCHAhAUMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOgcIIxDqAhAnOgQIIxAnOgsIABCABBCxAxCDAToRCC4QgAQQsQMQgwEQxwEQ0QM6DgguEIAEELEDEMcBENEDOggIABCABBCxAzoNCAAQgAQQhwIQsQMQFFDXBljMHGCCL2gBcAB4AIABUogBvAWSAQIxMJgBAKABAbABCg&sclient=gws-wiz" target="_blank"> google.com - c++ random number </a></li>
+<li><a href="https://www.google.ru/search?q=c%2B%2B+static+function&bih=939&biw=1880&hl=ru&sxsrf=ALiCzsYdktskSghgBsdveVDTn4Dvjj_cSg%3A1661879408019&ei=cEQOY_Fm7YXA8A_LuYyYCg&oq=c%2B%2B+static+&gs_lcp=Cgdnd3Mtd2l6EAMYADIKCAAQgAQQhwIQFDIKCAAQgAQQhwIQFDIFCAAQgAQyBQgAEIAEMgUIABCABDIECAAQCjIFCAAQgAQyBQgAEIAEMgQIABAKMgUIABCABDoHCAAQRxCwAzoHCAAQsAMQQzoECCMQJzoKCAAQsQMQgwEQQzoECAAQQ0oECEEYAEoECEYYAFCACFjHFWCkI2gBcAF4AIABW4gBxASSAQE3mAEAoAEByAEKwAEB&sclient=gws-wiz" target="_blank"> google.com - c++ static function </a></li>
+<li><a href="https://www.google.ru/search?q=c%2B%2B+string+to+char_t&bih=939&biw=1880&hl=ru&sxsrf=ALiCzsYnVEWf1KkZUBmpa8rYPN6SqpK2ww%3A1661879944439&ei=iEYOY627GvHMrgTY6arwCA&ved=0ahUKEwitn_2die_5AhVxposKHdi0Co4Q4dUDCA0&uact=5&oq=c%2B%2B+string+to+char_t&gs_lcp=Cgdnd3Mtd2l6EAMyBAgAEA0yBggAEB4QDTIICAAQHhAIEA0yCAgAEB4QCBANMggIABAeEAgQDTIICAAQHhAIEA0yCAgAEB4QCBANMggIABAeEAgQDTIICAAQHhAIEA0yCAgAEB4QCBANOgQIIxAnOgQIABBDOg0IABCABBCHAhCxAxAUOgoIABCxAxCDARBDOgcIIxCxAhAnOgcIABCxAxAKOhAIABCABBCHAhCxAxCDARAUOgsIABCABBCxAxCDAToKCAAQgAQQhwIQFDoFCAAQgAQ6BQgAEMsBSgQIQRgASgQIRhgAUABYpUFggFFoAnABeACAAXOIAasOkgEEMjAuMpgBAKABAcABAQ&sclient=gws-wiz" target="_blank"> google.com - c++ string to char_t </a></li>
+<li><a href="https://www.google.ru/search?q=c%2B%2B+namespace&bih=939&biw=1880&hl=ru&sxsrf=ALiCzsbgVvuDIepPuh2ot9TxhC-m0x7LPQ%3A1661880138174&ei=SkcOY7qmCqmOwPAPn-axmAo&oq=c%2B%2B+names&gs_lcp=Cgdnd3Mtd2l6EAMYADIKCAAQgAQQhwIQFDIKCAAQgAQQhwIQFDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQywEyBQgAEMsBOgcIABBHELADOgQIABBDOgcIABAKEMsBOggIABAeEBYQCkoECEEYAEoECEYYAFDMBlisFWDVI2gCcAF4AIABUogBsgOSAQE2mAEAoAEByAEIwAEB&sclient=gws-wiz" target="_blank"> google.com - c++ namespace </a></li>
+<li><a href="https://www.google.ru/search?q=c%2B%2B+namespace+из+другой+библиотеки&bih=939&biw=1880&hl=ru&sxsrf=ALiCzsYY-7BuUIKGmHFAwRYkzQWVWJ0lWQ%3A1661880930547&ei=YkoOY-n7INHHrgTD06bgBA&oq=c%2B%2B+namespace+из+другой+библ&gs_lcp=Cgdnd3Mtd2l6EAMYADIFCCEQoAE6BwgAEEcQsAM6BwgAELADEEM6CggAEIAEEIcCEBQ6BQgAEIAEOgYIABAeEBY6BAghEBU6CAghEB4QFhAdSgQIQRgASgQIRhgAUKwBWJFRYMFdaAFwAXgAgAGUAYgBmAqSAQQxMy4ymAEAoAEByAEKwAEB&sclient=gws-wiz" target="_blank"> google.com - c++ namespace из другой библиотеки </a></li>
+<li><a href="https://www.google.ru/search?q=c%2B%2B+windows+gui+library&bih=939&biw=1880&hl=ru&sxsrf=ALiCzsajOBUdfyIFetMy_-Tn1fu3soB0iQ%3A1661882073025&ei=2U4OY6SPAYmvrgS03LGYCQ&oq=c%2B%2B+winapi+gui+&gs_lcp=Cgdnd3Mtd2l6EAMYAzIGCAAQHhAWMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWOgcIABBHELADOgoIABCABBCHAhAUOgQIABBDOgUIABCABDoFCAAQywE6BAgAEA1KBAhBGABKBAhGGABQyCBYt01g5mpoAXABeACAAVqIAdoEkgEBOJgBAKABAcgBCMABAQ&sclient=gws-wiz" target="_blank"> google.com - c++ windows gui library </a></li>
+<li><a href="https://www.google.ru/search?q=c%2B%2B+int+to+string&bih=939&biw=1880&hl=ru&sxsrf=ALiCzsajOBUdfyIFetMy_-Tn1fu3soB0iQ%3A1661882073025&ei=2U4OY6SPAYmvrgS03LGYCQ&oq=c%2B%2B+int+&gs_lcp=Cgdnd3Mtd2l6EAMYADIKCAAQgAQQhwIQFDIFCAAQgAQyBQgAEIAEMgUIABCABDIKCAAQgAQQhwIQFDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOgcIABBHELADOgQIIxAnOgQIABBDSgQIQRgASgQIRhgAUN4GWPwLYNQaaAFwAXgAgAFHiAGAApIBATSYAQCgAQHIAQjAAQE&sclient=gws-wiz" target="_blank"> google.com - c++ int to string </a></li>
+<li><a href="" target="_blank"> google.com - </a></li>
+<li><a href="" target="_blank"> google.com - </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="https://www.google.ru/search?q=с%2B%2B+tcp+server+client+cross+platform&hl=ru&sxsrf=ALiCzsZDL17LzzUq5YMxjIDIJW0oby8YuA:1661845706462&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiE6YTYie75AhXY6CoKHfk8BJAQ_AUoAnoECAEQBA&biw=1880&bih=939&dpr=1#imgrc=ktm3nBNlEB4nPM" target="_blank"> google.com - Image: GitHub - socketio-socket.io-client-cpp: C++11 implementation of Socket.IO client </a></li>
+<li><a href="" target="_blank"> google.com - Image: </a></li>
+<li><a href="" target="_blank"> google.com - Image: </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> youtube.com - </a></li>
+<li><a href="" target="_blank"> youtube.com - </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="https://www.codeproject.com/Articles/1264257/Socket-Programming-in-Cplusplus-using-boost-asio-T" target="_blank"> codeproject.com - Socket Programming in C++ using boost.asio: TCP Server and Client MehreenTahir 23 Oct 2018 </a></li>
+<li><a href="https://www.codeproject.com/Articles/13499/XMLreader-Simple-reusable-class-DOM-implementation" target="_blank"> codeproject.com - XMLreader - Simple reusable class (DOM implementation) for reading xml data. Boby Thomas P 20 Mar 2006 </a></li>
+<li><a href="" target="_blank"> codeproject.com - </a></li>
+<li><a href="" target="_blank"> codeproject.com - </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="https://github.com/socketio/socket.io-client-cpp" target="_blank"> github.com - socketio socket.io-client-cpp </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="https://support.microsoft.com/ru-ru/office/установка-skype-для-бизнеса-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb?culture=ru-ru&country=ru&ui=ru-ru&rs=ru-ru&ad=ru" target="_blank"> support.microsoft.com - Установка Skype для бизнеса </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="https://gist.github.com/mtvee/4852685979927ca19d291c28c23d51bf" target="_blank"> gist.github.com - mtvee cross platform socket example c-c++ main.cpp </a></li>
+<li><a href="https://www.appsloveworld.com/cplus/100/127/cross-platform-simple-tcp-ip-api" target="_blank"> appsloveworld.com - SOLVED-CROSS PLATFORM SIMPLE TCP- IP API-C++ </a></li>
+<li><a href="https://linustechtips.com/topic/1195515-cross-platform-c-networking-similar-to-sockets/" target="_blank"> linustechtips.com - Cross platform C++ networking (similar to sockets) </a></li>
+<li><a href="https://libs.garden/cpp/search?q=tcp%2Fip" target="_blank"> libs.garden - C++ tcp-ip </a></li>
+<li><a href="https://www.faqcode4u.com/faq/71459/simple-cross-platform-tcp-ip-api" target="_blank"> faqcode4u.com - Simple Cross Platform Tcp Ip Api </a></li>
+<li><a href="https://en.cppreference.com/w/cpp/links/libs" target="_blank"> en.cppreference.com - A list of open source C++ libraries </a></li>
+<li><a href="https://github.com/jeremyko/ASockLib" target="_blank"> github.com - jeremyko ASockLib 2022 </a></li>
+<li><a href="https://forums.developer.nvidia.com/t/fatal-error-c1189-error-building-mfc-application-with-md-d-crt-dll-version-requires-mfc-sha/13394" target="_blank"> forums.developer.nvidia.com - fatal error C1189: #error : Building MFC application with MDd (CRT dll version) requires MFC sha 2009 </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="https://qna.habr.com/q/1243" target="_blank"> qna.habr.com - Какой посоветуете XML-парсер для C++ </a></li>
+<li><a href="https://github.com/zeux/pugixml/blob/master/src/pugixml.hpp" target="_blank"> github.com - zeux pugixml 2022 </a></li>
+<li><a href="https://linuxhint.com/parse_xml_in_cpp/" target="_blank"> linuxhint.com - How to Parse XML in C++ 2 years agoby Sukumar Paul </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="https://ru.stackoverflow.com/questions/719650/непредвиденный-конец-файла-во-время-поиска-предкомпилированного-заголовка" target="_blank"> ru.stackoverflow.com - 
+непредвиденный конец файла во время поиска предкомпилированного заголовка </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="https://www.reddit.com/r/cpp/comments/babfl5/a_pretty_big_list_of_c_gui_libraries/" target="_blank"> reddit.com - A pretty big list of C++ GUI libraries </a></li>
+<li><a href="https://www.slant.co/topics/12868/~cross-platform-c-gui-toolkits" target="_blank"> slant.co - What are the best cross-platform C++ GUI toolkits </a></li>
+<li><a href="https://cpp.libhunt.com/categories/698-gui" target="_blank"> cpp.libhunt.com - 47 GUI libraries and projects </a></li>
+<li><a href="http://nanapro.org/en-us/" target="_blank"> nanapro.org - Nana is a cross-platform library for GUI programming in modern C++ style. Learn more... </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="https://stackoverflow.com/questions/5590381/easiest-way-to-convert-int-to-string-in-c" target="_blank"> stackoverflow.com - Easiest way to convert int to string in C++ </a></li>
+<li><a href="https://www.educative.io/answers/how-to-convert-an-int-to-a-string-in-cpp" target="_blank"> educative.io - How to convert an int to a string in C++ </a></li>
+<li><a href="https://www.simplilearn.com/tutorials/cpp-tutorial/int-to-string-cpp" target="_blank"> simplilearn.com - Convert Int to String in C++ Using Different Methods </a></li>
+<li><a href="https://www.geeksforgeeks.org/namespace-in-c/" target="_blank"> geeksforgeeks.org - Namespace in C++ - Set 1 (Introduction) </a></li>
+<li><a href="https://ravesli.com/urok-53-prostranstva-imen/" target="_blank"> ravesli.com - </a></li>
+<li><a href="https://stackoverflow.com/questions/7352099/stdstring-to-char" target="_blank"> stackoverflow.com - std::string to char </a></li>
+<li><a href="https://www.geeksforgeeks.org/convert-string-char-array-cpp/" target="_blank"> geeksforgeeks.org - Convert string to char array in C++
+Difficulty Level : Medium Last Updated : 25 Jul, 2022 </a></li>
+<li><a href="https://www.researchgate.net/post/What_is_the_role_of_static_function_and_this_pointer_in_C" target="_blank"> researchgate.net - What is the role of static function and this pointer in C++ </a></li>
+<li><a href="https://stackoverflow.com/questions/558122/what-is-a-static-function-in-c" target="_blank"> stackoverflow.com - What is a static function in C </a></li>
+<li><a href="https://en.cppreference.com/w/cpp/language/static" target="_blank"> en.cppreference.com - static members </a></li>
+<li><a href="https://www.tutorialspoint.com/cplusplus/cpp_static_members.htm" target="_blank"> tutorialspoint.com - Static Members of a C++ Class </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="https://www.geeksforgeeks.org/rand-and-srand-in-ccpp/" target="_blank"> geeksforgeeks.org - rand() and srand() in C++ </a></li>
+<li><a href="https://cplusplus.com/reference/cstdlib/rand/" target="_blank"> cplusplus.com - Generate random number </a></li>
+<li><a href="https://stackoverflow.com/questions/13445688/how-to-generate-a-random-number-in-c" target="_blank"> stackoverflow.com - How to generate a random number in C++ </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="https://ru.stackoverflow.com/questions/719650/непредвиденный-конец-файла-во-время-поиска-предкомпилированного-заголовка" target="_blank"> ru.stackoverflow.com - непредвиденный конец файла во время поиска предкомпилированного заголовка </a></li>
+<li><a href="https://otvet.mail.ru/question/50087678" target="_blank"> otvet.mail.ru - Доброго времени суток, у меня вопрос по поводу c++ </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="https://github.com/zeux/pugixml" target="_blank"> github.com - zeux pugixml </a></li>
+<li><a href="https://xerces.apache.org/xerces-c/" target="_blank"> xerces.apache.org - Xerces-C++ Version 3.2.3 </a></li>
+<li><a href="https://github.com/zeux/pugixml/stargazers" target="_blank"> github.com - zeux pugixml stargazers </a></li>
+<li><a href="https://docs.microsoft.com/en-us/archive/msdn-magazine/2007/april/xmllite-a-small-and-fast-xml-parser-for-native-c" target="_blank"> docs.microsoft.com - A Small And Fast XML Parser For Native C++ </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> ******************************************** 31 августа 2022 Среда *********************************************** </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="https://www.google.ru/search?q=c%2B%2B+генерация+случайной+строки&bih=939&biw=1880&hl=ru&sxsrf=ALiCzsajOBUdfyIFetMy_-Tn1fu3soB0iQ%3A1661882073025&ei=2U4OY6SPAYmvrgS03LGYCQ&oq=c%2B%2B+генерация+случайной+с&gs_lcp=Cgdnd3Mtd2l6EAMYADIFCCEQoAEyCAghEB4QFhAdOgcIABBHELADOgQIABBDOgUIABCABDoFCC4QgAQ6BggAEB4QFkoECEEYAEoECEYYAFCxDVjpU2DbbmgCcAF4AIABYYgBswySAQIyMpgBAKABAcgBCMABAQ&sclient=gws-wiz" target="_blank"> google.com - c++ генерация случайной строки </a></li>
+<li><a href="https://www.google.ru/search?q=c%2B%2B+sleep+thread&hl=ru&sxsrf=ALiCzsYtcTA6FUKuzCvSgZyYr_6vDUS5pQ%3A1661922692294&source=hp&ei=hO0OY73lCfGrrgT9rqPICA&iflsig=AJiK0e8AAAAAYw77lF-S9dP8j7Yq6e6PG0gSOAx38p23&oq=c%2B%2B+ыдуу&gs_lcp=Cgdnd3Mtd2l6EAMYATIECAAQDTIECAAQDTIECAAQDTIECAAQDTIECAAQDTIECAAQDTIECAAQDTIECAAQDTIECAAQDTIECAAQDToHCCMQ6gIQJzoECCMQJzoLCAAQgAQQsQMQgwE6EQguEIAEELEDEIMBEMcBENEDOggIABCABBCxAzoJCAAQgAQQChAqOgYIABANEApQ9wZYpClglTtoAHAAeACAAVKIAeEEkgEBOZgBAKABAbABCg&sclient=gws-wiz" target="_blank"> google.com - c++ sleep thread </a></li>
+<li><a href="https://www.google.ru/search?q=c%2B%2B+sql+server+ado+example&hl=ru&sxsrf=ALiCzsYleIAJlWSk3H52eVku-BYDwNIQxg%3A1661883050737&source=hp&ei=qlIOY5rAKqGxrgS_iIaYDg&iflsig=AJiK0e8AAAAAYw5gusvTaRehuWmDrn6TtyPH6Jos7vFH&oq=c%2B%2B+sql+server+&gs_lcp=Cgdnd3Mtd2l6EAMYBDIFCAAQywEyBQgAEMsBMgUIABDLATIGCAAQHhAWMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWOgcIIxDqAhAnOgYIIxAnEBM6BAgjECc6CwgAEIAEELEDEIMBOhEILhCABBCxAxCDARDHARDRAzoICAAQgAQQsQM6EAgAEIAEEIcCELEDEIMBEBQ6DQgAEIAEEIcCELEDEBQ6BQgAEIAEOgoIABCABBCHAhAUUNMFWPQ8YIJKaAFwAHgAgAGCAYgB-AiSAQQxNC4xmAEAoAEBsAEK&sclient=gws-wiz" target="_blank"> google.com - c++ sql server ado example </a></li>
+<li><a href="https://www.google.ru/search?q=c%2B%2B+sql+server+ado+codeproject&hl=ru&sxsrf=ALiCzsZMqYoXV4UQKNAZzxBcNVxBM_WpMg:1661942918832&source=lnt&tbs=li:1&sa=X&ved=2ahUKEwiBlMHq8_D5AhWLyIsKHY9jDbkQpwV6BAgBECQ&biw=1880&bih=939&dpr=1" target="_blank"> google.com - c++ sql server ado codeproject </a></li>
+<li><a href="https://www.google.ru/search?q=c%2B%2B+winapi+&hl=ru&biw=1880&bih=939&tbs=li%3A1&sxsrf=ALiCzsaSRujG22vAt7dRtQGbQQrYG95L2Q%3A1661959569638&ei=kX0PY6O6JpGyrgSy86LYAw&ved=0ahUKEwjjxp3usfH5AhURmYsKHbK5CDsQ4dUDCA0&uact=5&oq=c%2B%2B+winapi+&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBQgAEIAEMgUIABDLATIFCAAQywEyBQgAEIAEMgUIABDLATIFCAAQywEyBQgAEIAEMgUIABCABDIFCAAQgARKBAhBGAFKBAhGGABQozNYozNg0bcNaARwAHgAgAFaiAFakgEBMZgBAKABAcABAQ&sclient=gws-wiz" target="_blank"> google.com - c++ winapi </a></li>
+<li><a href="https://www.google.ru/search?q=c%2B%2B+sql+server+ado+github&hl=ru&biw=1880&bih=939&tbs=li%3A1&sxsrf=ALiCzsb0pQx_5ZIvbydX077lbtWrOam1Jw%3A1661959307831&ei=i3wPY4KpMtGOrwS0pYmgBQ&oq=c%2B%2B+sql+server+ado+пшерги&gs_lcp=Cgdnd3Mtd2l6EAMYADIJCCEQoAEQChAqMgcIIRCgARAKOgQIIxAnOgYIABAeEBY6BAghEBU6CAghEB4QFhAdOgUIIRCgAUoECEEYAUoECEYYAFCPC1jYJGDOMWgBcAB4AIABiAGIAasGkgEDNS4zmAEAoAEBwAEB&sclient=gws-wiz" target="_blank"> google.com - c++ sql server ado github </a></li>
+<li><a href="https://www.google.ru/search?q=c%2B%2B+winapi+WNDCLASSEXW+добавить+таблицу&hl=ru&sxsrf=ALiCzsaJ7ORhbe4w7M9yJZARRJSPnhvWqA:1661963778704&source=lnt&tbs=li:1&sa=X&ved=2ahUKEwj6zqLFwfH5AhWTXfEDHU-MDm0QpwV6BAgBECQ&biw=1880&bih=939&dpr=1" target="_blank"> google.com - c++ winapi WNDCLASSEXW добавить таблицу </a></li>
+<li><a href="https://www.google.ru/search?q=c%2B%2B+winapi+wndclassexw+github&hl=ru&biw=1880&bih=939&tbs=li%3A1&sxsrf=ALiCzsbiyeSq5jiAyjSOwZf2jBOyk-vJSw%3A1661971731245&ei=E60PY-3LDs-Gxc8P-JKyiA0&ved=0ahUKEwitoauV3_H5AhVPQ_EDHXiJDNEQ4dUDCA0&uact=5&oq=c%2B%2B+winapi+wndclassexw+github&gs_lcp=Cgdnd3Mtd2l6EANKBAhBGAFKBAhGGABQAFgAYKgBaAFwAHgAgAEAiAEAkgEAmAEAwAEB&sclient=gws-wiz" target="_blank"> google.com - c++ winapi wndclassexw github </a></li>
+<li><a href="" target="_blank"> google.com - </a></li>
+<li><a href="" target="_blank"> google.com - </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="https://www.google.ru/search?q=xxx%20zoe%20voss%20father&tbm=isch&hl=ru&tbs=rimg:CRtnQ5FqEJW8YfJkQSrA9d2X8AEAsgIMCgIIARAAOgQIABAA&sa=X&ved=0CAIQrnZqFwoTCODgtKm28fkCFQAAAAAdAAAAABAo&biw=1865&bih=939" target="_blank"> google.com - Image: XXX xxx zoe voss father </a></li>
+<li><a href="" target="_blank"> google.com - Image: </a></li>
+<li><a href="" target="_blank"> google.com - Image: </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="https://www.youtube.com/watch?v=ONYW3hBbk-8" target="_blank"> youtube.com - C++ GUI Programming For Beginners Episode 1 - Installing wxWidgets
+8 053 просмотра12 февр. 2022 г. OttoBotCode 1,25 тыс. подписчиков </a></li>
+<li><a href="https://www.youtube.com/watch?v=Kr3HK7vuBPQ" target="_blank"> youtube.com - C++ OpenGL GUI Library DevLog 1: Windows,Menus,Buttons - illuxUI
+23 878 просмотров19 дек. 2018 г. PardCode 8,98 тыс. подписчиков </a></li>
+<li><a href="https://www.youtube.com/watch?v=UpREGWu7Oig" target="_blank"> youtube.com - BEST GUI TOOLKITS for C++ - Sciber
+25 825 просмотровДата премьеры: 6 нояб. 2021 г. Sciber 7,5 тыс. подписчиков </a></li>
+<li><a href="" target="_blank"> youtube.com - </a></li>
+<li><a href="" target="_blank"> youtube.com - </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="https://www.codeproject.com/Articles/2659/ADO-NET-Primer-using-Managed-C" target="_blank"> codeproject.com - ADO.NET Primer using Managed C++ Bill Ferreira 31 Jul 2002 !!!!!!!!!!!!!!!!!!!!!!!!!! </a></li>
+<li><a href="https://codeproject.freetls.fastly.net/Articles/1904/Beginning-Winsock-Programming-Simple-TCP-client?fid=3380&df=90&mpp=25&sort=Position&view=Normal&spc=Relaxed&prof=True&select=2868667&fr=26" target="_blank"> codeproject.com - Beginning Winsock Programming - Simple TCP client
+Nish Nishant 28 Feb 2002 </a></li>
+<li><a href="https://codeproject.freetls.fastly.net/Forums/1647/C-Cplusplus-MFC?df=90&mpp=25&sort=Position&view=Normal&spc=Relaxed&prof=True&select=51908&fr=448901" target="_blank"> codeproject.com - C C++ MFC </a></li>
+<li><a href="" target="_blank"> codeproject.com - </a></li>
+<li><a href="" target="_blank"> codeproject.com - </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="https://www.cyberforum.ru/cpp-builder/thread375883.html" target="_blank"> cyberforum.ru - Генерация строки 01.11.2011, 00:30. </a></li>
+<li><a href="http://www.makak.ru/2007/12/15/neslozhnyj-generator-parolej-na-c/" target="_blank"> makak.ru - Несложный генератор паролей на c++ </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="https://gist.github.com/cx20/2905884" target="_blank"> gist.github.com - cx20 </a></li>
+<li><a href="https://docs.microsoft.com/ru-ru/sql/ado/reference/ado-api/ado-code-examples-in-visual-c?view=sql-server-ver16" target="_blank"> docs.microsoft.com - Примеры кода ADO в Visual C++ Статья 12.08.2022 </a></li>
+<li><a href="https://docs.microsoft.com/ru-ru/sql/ado/guide/appendixes/visual-c-ado-programming?view=sql-server-ver16" target="_blank"> docs.microsoft.com - OpenSchema( </a></li>
+<li><a href="https://www.cprogramming.com/tutorial/intro_to_ado_in_c++.html" target="_blank"> cprogramming.com - Introduction to ADO in C++ </a></li>
+<li><a href="https://tonyphuah.neocities.org/ado.html" target="_blank"> tonyphuah.neocities.org - ADO (ActiveX Data Objects) is Microsoft-specific technology, work as an interface to to access and manipulate data from a variety of sources through an OLE DB </a></li>
+<li><a href="https://advancedcpp.livejournal.com/26362.html" target="_blank"> advancedcpp.livejournal.com - executeStatement </a></li>
+<li><a href="https://social.msdn.microsoft.com/Forums/windowsdesktop/en-US/10ac6150-508c-4e67-8ed5-bfbcbaa97cc2/create-a-sql-server-login-dialog-with-ado-via-visual-c-?forum=vcgeneral" target="_blank"> social.msdn.microsoft.com - Create a SQL Server Login Dialog with ADO via Visual C++ </a></li>
+<li><a href="https://stackoverflow.com/questions/24393521/c-ado-connection-pooling" target="_blank"> stackoverflow.com - C++ ADO Connection Pooling </a></li>
+<li><a href="https://blog.expensify.com/2011/03/25/ceo-friday-why-we-dont-hire-net-programmers/" target="_blank"> blog.expensify.com - CEO Friday: Why we don’t hire .NET programmers David Barrett — March 25, 2011 </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="https://terminalroot.com/the-7-best-cpp-frameworks-for-creating-graphical-interfaces/" target="_blank"> terminalroot.com - The 7 Best C++ Frameworks for Creating Graphical Interfaces The most used and the most recommended! Jan 10, 2022 </a></li>
+<li><a href="https://cpp.libhunt.com/categories/698-gui" target="_blank"> cpp.libhunt.com - C++ GUI </a></li>
+<li><a href="https://cpp.libhunt.com/libs/library/windows/gui" target="_blank"> cpp.libhunt.com - GUI libraries </a></li>
+<li><a href="https://code-live.ru/post/password-generator-cpp/" target="_blank"> code-live.ru - Генератор паролей на C++ и немного о сетевой безопасности selevit C-C++ 7 августа 2011 </a></li>
+<li><a href="https://ru.stackoverflow.com/questions/1336872/генерация-строки-в-c" target="_blank"> ru.stackoverflow.com - генерация строки в c++ </a></li>
+<li><a href="https://www.cyberforum.ru/cpp-builder/thread375883.html" target="_blank"> cyberforum.ru - Генерация строки 01.11.2011, 00:30. </a></li>
+<li><a href="https://habr.com/ru/post/326576/" target="_blank"> habr.com - ukhegg 15 апреля 2017 в 15:10 Генератор тестовых данных для C++ </a></li>
+<li><a href="https://www.bestprog.net/ru/2020/08/13/с-generating-random-numbers-functions-rand-srand-time-examples-ru/" target="_blank"> bestprog.net - Генерирование случайных чисел. Функции rand(), srand(), time(). Примеры </a></li>
+<li><a href="https://otvet.mail.ru/question/210899732" target="_blank"> otvet.mail.ru - Генератор случайных слов (строк) из файла на C++ </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="https://it.spankbang.com/41mgz/video/my+step+dad+asked+to+see+my+pussy" target="_blank"> it.spankbang.com - XXX My Step Dad Asked To See My Pussy Zoe Voss </a></li>
+<li><a href="https://goodporn.to/videos/19650/sweetsinner-the-secretary-02-scene-4-02-19-2014/" target="_blank"> goodporn.to - XXX SweetSinner - The Secretary #02 Scene 4 - 02-19-2014 </a></li>
+<li><a href="" target="_blank"> - XXX </a></li>
+<li><a href="" target="_blank"> - XXX </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="https://www.cyberforum.ru/win-api/thread2411319.html" target="_blank"> cyberforum.ru - Буквы в ячейках DataGrid 01.03.2019, 00:54 </a></li>
+<li><a href="https://stackoverflow.com/questions/12843066/c-mfc-add-combo-box-string-item-from-a-widget-id" target="_blank"> stackoverflow.com - C++ MFC add combo box string item from a widget ID </a></li>
+<li><a href="https://msdn-whiteknight.github.io/answers/html/tools/html/ru.stackoverflow.com/posts/885206.html" target="_blank"> msdn-whiteknight.github.io - Ответ на C++ WinApi отделить UI View от кода </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="https://msdn-whiteknight.github.io/answers/html/tools/html/ru.stackoverflow.com/posts/1099561.html" target="_blank"> msdn-whiteknight.github.io - Ответ на С++ как начертить график в консольном приложении? </a></li>
+<li><a href="https://github.com/mobelus/My-Notes" target="_blank"> github.com - mobelus My-Notes 2020 </a></li>
+<li><a href="https://cyberforum7.rssing.com/chan-59943578/all_p12400.html" target="_blank"> cyberforum7.rssing.com - castle game engine - Lazarus </a></li>
+<li><a href="https://q2k.ru/questions/43312089/win32-api-не-может-createwindoww" target="_blank"> q2k.ru - Win32 API не может CreateWindowW() Вопрос задан 7 месяцев 14 дней назад </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="https://habr.com/ru/post/110955/" target="_blank"> habr.com - ivorobiev 30 декабря 2010 в 11:21 100 статей про разработку для Windows на русском языке </a></li>
+<li><a href="http://cppstudio.com/post/9384/" target="_blank"> cppstudio.com - Введение в Win32 API </a></li>
+<li><a href="https://docs.microsoft.com/ru-ru/windows/win32/learnwin32/winmain--the-application-entry-point" target="_blank"> docs.microsoft.com - WinMain: точка входа приложения Статья 12.05.2022 </a></li>
+<li><a href="https://rsdn.org/article/baseserv/api32.xml" target="_blank"> rsdn.org - Пишем на WinAPI с «нуля» </a></li>
+<li><a href="https://ru.stackoverflow.com/questions/1094453/Рисование-на-c-winapi" target="_blank"> ru.stackoverflow.com - Рисование на C++ WinAPI </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="https://github.com/topics/database-connector?l=c%2B%2B" target="_blank"> github.com - topics database-connector </a></li>
+<li><a href="https://github.com/MicrosoftDocs/sql-docs/blob/live/docs/ado/microsoft-activex-data-objects-ado.md" target="_blank"> github.com - MicrosoftDocs sql-docs </a></li>
+<li><a href="https://github.com/topics/database-access?o=desc&s=updated" target="_blank"> github.com - topics database-access </a></li>
+<li><a href="https://github.com/topics/oledb?o=desc&s=stars" target="_blank"> github.com - topics oledb !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="https://github.com/MalwareTech/TinyXPB/blob/master/TinyXPB/Tools/NTDDK/inc/wxp/winuser.inl" target="_blank"> github.com - MalwareTech TinyXPB </a></li>
+<li><a href="https://www.csdn.net/tags/Ntzagg5sNjY0OTgtYmxvZwO0O0OO0O0O.html" target="_blank"> csdn.net - </a></li>
+<li><a href="https://www.csdn.net/tags/MtTaIg0sMTgxODE0LWJsb2cO0O0O.html" target="_blank"> csdn.net - FindWindow </a></li>
+<li><a href="https://www.cyberforum.ru/win-api/thread788391.html" target="_blank"> cyberforum.ru - Wndclass.lpszClassName 17.02.2013, 16:45 </a></li>
+<li><a href="https://stackoverflow.com/questions/68872450/creating-a-button-in-c-with-winapi-in-a-child-window-doesnt-work" target="_blank"> stackoverflow.com - Creating a button in c++ with winapi in a child window doesn't work </a></li>
+<li><a href="https://web-answers.ru/c/winapi-win32-c-dochernee-okno-ne-vidno.html" target="_blank"> web-answers.ru - WINAPI — WIN32 C ++: ДОЧЕРНЕЕ ОКНО НЕ ВИДНО </a></li>
+<li><a href="https://github.com/holem2k/MySqlOleDbProvider" target="_blank"> github.com - holem2k MySqlOleDbProvider 2020 </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="https://jeffpar.github.io/kbarchive/kb/238/Q238116/" target="_blank"> jeffpar.github.io - Q238116: PRB: Accessing Temporary SQL Server Table Result: DB_E_NOTABLE </a></li>
+<li><a href="https://github.com/jeffpar/kbarchive" target="_blank"> github.com - jeffpar kbarchive 2019 </a></li>
+<li><a href="https://github.com/MicrosoftDocs/cpp-docs/blob/main/docs/data/data-access-programming-mfc-atl.md" target="_blank"> github.com - MicrosoftDocs cpp-docs </a></li>
+<li><a href="https://advancedcpp.livejournal.com/26362.html" target="_blank"> advancedcpp.livejournal.com - Today I was asked for simple example of using ADO, C++ and MS SQL…
+ </a></li>
+<li><a href="https://tonyphuah.neocities.org/ado.html" target="_blank"> tonyphuah.neocities.org - ADO (ActiveX Data Objects) is Microsoft-specific technology, work as an interface to to access and manipulate data from a variety of sources through an OLE DB </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="https://github.com/microsoft/Windows-classic-samples/blob/main/Samples/Win7Samples/dataaccess/oledb/rowsetviewer/cdialoglite.cpp" target="_blank"> github.com - microsoft Windows-classic-samples </a></li>
+<li><a href="https://www.cyberforum.ru/win-api/thread2718229.html" target="_blank"> cyberforum.ru - Как изучать WinAPI 26.10.2020, 21:09. </a></li>
+<li><a href="https://www.cyberforum.ru/win-api/thread1309342.html" target="_blank"> cyberforum.ru - Заголовок _tmain 24.11.2014, 13:47 </a></li>
+<li><a href="https://github.com/microsoft/Windows-classic-samples/tree/main/Samples/Win7Samples/begin/LearnWin32/SimpleDrawing" target="_blank"> github.com - microsoft Windows-classic-samples </a></li>
+<li><a href="https://gist.github.com/caiorss/0678b5efb2aa2eff120b9e9284fdbb0c" target="_blank"> gist.github.com - caiorss </a></li>
+<li><a href="https://github.com/odin-lang/Odin/blob/master/src/gb/gb.h" target="_blank"> github.com - odin-lang Odin </a></li>
+<li><a href="https://github.com/microsoft/Mesh-processing-library/blob/master/libHWin/HW.cpp" target="_blank"> github.com - microsoft Mesh-processing-library </a></li>
+<li><a href="https://github.com/adafruit/Adalight/pull/11/files" target="_blank"> github.com - adafruit Adalight </a></li>
+<li><a href="https://github.com/microsoft/Windows-classic-samples/tree/main/Samples/AppxPackingExtractAppx/cpp" target="_blank"> github.com - microsoft Windows-classic-samples </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> ******************************************** 1 сентября 2022 Четверг *********************************************** </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="https://www.google.ru/search?q=c%2B%2B+template+class+method+definition&bih=939&biw=1880&hl=ru&sxsrf=ALiCzsazgjf_u2jJW96iYWnqqxpFTsxumQ%3A1662013957981&source=hp&ei=BVIQY_bEOdXQqwHbrLsg&iflsig=AJiK0e8AAAAAYxBgFS2Pfh8jWF5jcbbKplarv0jG8Ygb&oq=c%2B%2B+template+class&gs_lcp=Cgdnd3Mtd2l6EAMYAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQywEyBQgAEIAEMgUIABCABDIFCAAQgAQ6BAgjECc6CwgAEIAEELEDEIMBOhEILhCABBCxAxCDARDHARDRAzoICAAQgAQQsQNQAFj_LWDuSWgAcAB4AIABYogB_giSAQIxOJgBAKABAQ&sclient=gws-wiz" target="_blank"> google.com - c++ template class method definition </a></li>
+<li><a href="https://www.google.ru/search?q=C4996%09%27ID2D1Factory%3A%3AGetDesktopDpi%27%3A+Deprecated.+Use+DisplayInformation%3A%3ALogicalDpi+for+Windows+Store+Apps+or+GetDpiForWindow+for+desktop+apps&hl=ru&sxsrf=ALiCzsZOjWIYGONxatgHouhT32TsYLCW-g%3A1662013997184&source=hp&ei=LVIQY_LhCOr1qwGgm7_gAQ&iflsig=AJiK0e8AAAAAYxBgPWRhKWC4krYh8Nl3Rfy18kbvvqAr&ved=0ahUKEwiyrKXP_PL5AhXq-ioKHaDNDxwQ4dUDCAY&uact=5&oq=C4996%09%27ID2D1Factory%3A%3AGetDesktopDpi%27%3A+Deprecated.+Use+DisplayInformation%3A%3ALogicalDpi+for+Windows+Store+Apps+or+GetDpiForWindow+for+desktop+apps&gs_lcp=Cgdnd3Mtd2l6EAMyBwgjEOoCECcyBwgjEOoCECcyBwgjEOoCECcyBwgjEOoCECcyBwgjEOoCECcyBwgjEOoCECcyBwgjEOoCECcyBwgjEOoCECcyBwgjEOoCECcyBwgjEOoCECdQlgZY7MYBYLTOAWgBcAB4AIABAIgBAJIBAJgBAKABAqABAbABCg&sclient=gws-wiz" target="_blank"> google.com - C4996	'ID2D1Factory::GetDesktopDpi': Deprecated. Use DisplayInformation::LogicalDpi for Windows Store Apps or GetDpiForWindow for desktop apps </a></li>
+<li><a href="https://www.google.ru/search?q=Ошибка%09LNK2019%09ссылка+на+неразрешенный+внешний+символ+"public%3A+__thiscall+BaseWindow<class+MainWindow>%3A%3ABaseWindow&hl=ru&sxsrf=ALiCzsbqeTLvLunjBRrT7bd3JyrNqEzz2A%3A1662010951126&source=hp&ei=R0YQY_3HBMWNxc8PkpmZsAU&iflsig=AJiK0e8AAAAAYxBUV3gYeUIOJ5Aa8CJJtoA2sxfe7jPC&ved=0ahUKEwi9h-ii8fL5AhXFRvEDHZJMBlYQ4dUDCAY&uact=5&oq=Ошибка%09LNK2019%09ссылка+на+неразрешенный+внешний+символ+"public%3A+__thiscall+BaseWindow<class+MainWindow>%3A%3ABaseWindow&gs_lcp=Cgdnd3Mtd2l6EANQAFgAYOoBaABwAHgAgAEAiAEAkgEAmAEAoAECoAEB&sclient=gws-wiz" target="_blank"> google.com - Ошибка	LNK2019	ссылка на неразрешенный внешний символ public: __thiscall BaseWindow<class MainWindow>::BaseWindow </a></li>
+<li><a href="https://www.google.ru/search?q=c%2B%2B+constructor+base+class+initialization&hl=ru&biw=1880&bih=939&sxsrf=ALiCzsbfjdi7mLB0-NhF6vwQPvJC3aeT_A%3A1662014019938&ei=Q1IQY7_6OPCArwSBx4_YBQ&oq=c%2B%2B+constructor+ифыу&gs_lcp=Cgdnd3Mtd2l6EAMYATIECAAQDTIECAAQDTIECAAQDTIGCAAQHhAWMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWMggIABAeEAgQDTIICAAQHhAIEA0yCAgAEB4QCBANOgcIABBHELADOgQIABBDOgcIABCxAxBDOgUIABCABDoFCAAQywE6BQghEKABOgQIIRAVOgYIABAeEA1KBAhBGABKBAhGGABQ4QhYj0VggFZoAXABeACAAYABiAHbCpIBBDEzLjOYAQCgAQHIAQjAAQE&sclient=gws-wiz" target="_blank"> google.com - c++ constructor base class initialization </a></li>
+<li><a href="https://www.google.ru/search?q=c%2B%2B+template+constructor+base+class+initialization&hl=ru&biw=1880&bih=939&sxsrf=ALiCzsbLTtGVfKvemMFvevswdbvZNQ7YqQ%3A1662026060433&ei=TIEQY56OGtW9xc8Pg4SE-A4&ved=0ahUKEwie5MHHqfP5AhXVXvEDHQMCAe8Q4dUDCA0&uact=5&oq=c%2B%2B+template+constructor+base+class+initialization&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEKIEOgcIABBHELADOgYIABAeEAc6BQgAEIAEOgQIABAeOgQIIRAKSgQIQRgASgQIRhgAULkHWKgYYPYfaAFwAXgAgAFdiAHtBZIBATmYAQCgAQHIAQjAAQE&sclient=gws-wiz" target="_blank"> google.com - c++ template constructor base class initialization </a></li>
+<li><a href="https://www.google.ru/search?q=c%2B%2B+WNDCLASS+HWND+tabcontrol&source=lmns&bih=939&biw=1880&hl=ru&sa=X&ved=2ahUKEwiN6rWNzPP5AhVJs4sKHUAFDM8Q_AUoAHoECAEQAA" target="_blank"> google.com - c++ WNDCLASS HWND tabcontrol </a></li>
+<li><a href="https://www.google.ru/search?q=c%2B%2B++HWND+tabcontrol+CreateWindow&bih=939&biw=1880&hl=ru&sxsrf=ALiCzsbOAFxYSJVCXCSfH1HH7S37cMBcVw%3A1662038857655&ei=SbMQY6DOJ4bRrgS3nryQCw&ved=0ahUKEwjgltqd2fP5AhWGqIsKHTcPD7IQ4dUDCA0&uact=5&oq=c%2B%2B++HWND+tabcontrol+CreateWindow&gs_lcp=Cgdnd3Mtd2l6EAMyBQghEKABOgcIABBHELADSgQIQRgASgQIRhgAUNMTWIwmYIwoaAFwAXgAgAFziAGlA5IBAzQuMZgBAKABAaABAsgBAsABAQ&sclient=gws-wiz" target="_blank"> google.com - c++  HWND tabcontrol CreateWindow </a></li>
+<li><a href="https://www.google.ru/search?q=c%2B%2B++HWND+listview+CreateWindow&hl=ru&biw=1880&bih=939&tbs=li%3A1&sxsrf=ALiCzsYs5pS5tknPhcEtP-KjjMldCtBH5A%3A1662040783114&ei=z7oQY8HDBqaDxc8P4M2QsAk&ved=0ahUKEwiB5-qz4PP5AhWmQfEDHeAmBJYQ4dUDCA0&uact=5&oq=c%2B%2B++HWND+listview+CreateWindow&gs_lcp=Cgdnd3Mtd2l6EAM6BAgAEB5KBAhBGAFKBAhGGABQqQtYxSJg7yNoAXAAeACAAVGIAbQFkgEBOZgBAKABAcABAQ&sclient=gws-wiz" target="_blank"> google.com - c++  HWND listview CreateWindow </a></li>
+<li><a href="https://www.google.ru/search?q=c%2B%2B+PROCESSENTRY32&bih=939&biw=1880&hl=ru&sxsrf=ALiCzsbkI-EzWRhHdxqnwdUJbC8T5cc4uQ%3A1662040750129&source=hp&ei=rroQY7L5BJeSxc8PtbuSoA8&iflsig=AJiK0e8AAAAAYxDIvq5CZZ84VuOTkvwDQjuxpm-tvSq9&ved=0ahUKEwiyiIuk4PP5AhUXSfEDHbWdBPQQ4dUDCAY&uact=5&oq=c%2B%2B+PROCESSENTRY32&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgYIABAeEBY6CwgAEIAEELEDEIMBOhEILhCABBCxAxCDARDHARDRAzoICAAQgAQQsQM6DgguEIAEELEDEMcBENEDOgQIIxAnUABYrApg3hdoAHAAeACAAYMBiAGTA5IBAzQuMZgBAKABAaABAg&sclient=gws-wiz" target="_blank"> google.com - c++ PROCESSENTRY32 </a></li>
+<li><a href="https://www.google.ru/search?q=c%2B%2B+printError&bih=939&biw=1880&hl=ru&sxsrf=ALiCzsYlyXs4R6jXCfKiY05R-Q-4V4WFAw%3A1662044073136&ei=qccQY7n2B6zMrgSm967gAg&ved=0ahUKEwj57tHU7PP5AhUsposKHaa7CywQ4dUDCA0&uact=5&oq=c%2B%2B+printError&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEMsBMgQIABANMgYIABAeEA0yBggAEB4QDTIGCAAQHhANMggIABAeEA0QCjIGCAAQHhANMggIABAeEAgQDTIICAAQHhAIEA0yCAgAEB4QCBANOgcIABBHELADOgQIIxAnOgoIABCxAxCDARBDOgQIABBDOg0IABCABBCHAhCxAxAUOgcIABCxAxBDOgsIABCABBCxAxCDAUoECEEYAEoECEYYAFC6A1iYB2D_CGgBcAF4AIABT4gBmgGSAQEymAEAoAEBoAECyAEIwAEB&sclient=gws-wiz" target="_blank"> google.com - c++ printError </a></li>
+<li><a href="https://www.google.ru/search?q=c%2B%2B+sql+server+CAccessor&hl=ru&sxsrf=ALiCzsb_nhilAjMGYNOgHSoRuLnMP2fA_g:1662050213955&source=lnt&tbs=li:1&sa=X&ved=2ahUKEwiIzOfEg_T5AhU-X_EDHQTfDAcQpwV6BAgBECQ&biw=1880&bih=939&dpr=1" target="_blank"> google.com - c++ sql server CAccessor </a></li>
+<li><a href="https://www.google.ru/search?q=c%2B%2B+sql+server+CAccessor+github&hl=ru&biw=1880&bih=939&tbs=li%3A1&sxsrf=ALiCzsYhtXRMTpemMiDXpoeKeKJFO5mKEQ%3A1662050650025&ei=WuEQY5iKAaOCxc8Pop-lSA&ved=0ahUKEwiYn9-UhfT5AhUjQfEDHaJPCQk4FBDh1QMIDQ&uact=5&oq=c%2B%2B+sql+server+CAccessor+github&gs_lcp=Cgdnd3Mtd2l6EAM6BwghEKABEApKBAhBGAFKBAhGGABQ4AFY8BJgtRRoAXAAeACAAYQBiAHfBZIBAzUuMpgBAKABAcABAQ&sclient=gws-wiz" target="_blank"> google.com - c++ sql server CAccessor github </a></li>
+<li><a href="" target="_blank"> google.com - </a></li>
+<li><a href="" target="_blank"> google.com - </a></li>
+<li><a href="" target="_blank"> google.com - </a></li>
+<li><a href="" target="_blank"> google.com - </a></li>
+<li><a href="" target="_blank"> google.com - </a></li>
+<li><a href="" target="_blank"> google.com - </a></li>
+<li><a href="" target="_blank"> google.com - </a></li>
+<li><a href="" target="_blank"> google.com - </a></li>
+<li><a href="" target="_blank"> google.com - </a></li>
+<li><a href="" target="_blank"> google.com - </a></li>
+<li><a href="" target="_blank"> google.com - </a></li>
+<li><a href="" target="_blank"> google.com - </a></li>
+<li><a href="" target="_blank"> google.com - </a></li>
+<li><a href="" target="_blank"> google.com - </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="https://www.google.ru/search?q=Soulbaea&hl=ru&sxsrf=ALiCzsYxvMV_oN_-SxU6Tf0jAZX4oHjP8w:1662005668108&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj8gdnL3fL5AhVySvEDHXKrB5QQ_AUoAXoECAIQAw&biw=1880&bih=939&dpr=1#imgrc=sp67u0JsEBtaUM" target="_blank"> google.com - Image: Soulbaea </a></li>
+<li><a href="https://www.google.ru/search?q=c%2B%2B+WNDCLASS+HWND&hl=ru&sxsrf=ALiCzsZTcTiFd_8gCR4U3Umplf2NMNjTAg:1662029781586&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjj5PK1t_P5AhU9XvEDHeBADoUQ_AUoBHoECAEQBg&biw=1880&bih=939&dpr=1#imgrc=kejlRUOoFpAglM" target="_blank"> google.com - Image:  Электротехника Электротехника: Программа для вывода графика на языке C++. </a></li>
+<li><a href="https://www.google.ru/search?q=c%2B%2B+WNDCLASS+HWND&hl=ru&sxsrf=ALiCzsZTcTiFd_8gCR4U3Umplf2NMNjTAg:1662029781586&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjj5PK1t_P5AhU9XvEDHeBADoUQ_AUoBHoECAEQBg&biw=1880&bih=939&dpr=1#imgrc=kejlRUOoFpAglM&imgdii=KwRU-z3kTBUPDM" target="_blank"> google.com - Image: WinApi를 이용한 Notepad </a></li>
+<li><a href="https://www.google.ru/search?q=c%2B%2B+WNDCLASS+HWND&hl=ru&sxsrf=ALiCzsZTcTiFd_8gCR4U3Umplf2NMNjTAg:1662029781586&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjj5PK1t_P5AhU9XvEDHeBADoUQ_AUoBHoECAEQBg&biw=1880&bih=939&dpr=1#imgrc=IxeO5s-BEvdxhM" target="_blank"> google.com - Image: c++ WNDCLASS HWND </a></li>
+<li><a href="https://www.google.ru/search?q=c%2B%2B+WNDCLASS+HWND&hl=ru&sxsrf=ALiCzsZTcTiFd_8gCR4U3Umplf2NMNjTAg:1662029781586&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjj5PK1t_P5AhU9XvEDHeBADoUQ_AUoBHoECAEQBg&biw=1880&bih=939&dpr=1#imgrc=JwvIunKSNcmp6M&imgdii=uxO-6KZiwPBiaM" target="_blank"> google.com - Image:  CodeProject Custom Controls in Win32 API: Visual Styles - CodeProject </a></li>
+<li><a href="https://www.google.ru/search?q=c%2B%2B+WNDCLASS+HWND+tabcontrol&tbm=isch&ved=2ahUKEwj6hKG4t_P5AhXOGHcKHQiqAR8Q2-cCegQIABAA&oq=c%2B%2B+WNDCLASS+HWND+tabcontrol&gs_lcp=CgNpbWcQAzoECCMQJ1DVBFjPG2CoIGgAcAB4AIABhQGIAa0HkgEEMTEuMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=2o8QY_qvIM6x3AOI1Ib4AQ&bih=939&biw=1880&hl=ru#imgrc=UQcOz7vTfEuZUM" target="_blank"> google.com - Image: About Tab Controls - Win32 apps  Microsoft Docs </a></li>
+<li><a href="https://www.google.ru/search?q=c%2B%2B+WNDCLASS+HWND&hl=ru&sxsrf=ALiCzsZTcTiFd_8gCR4U3Umplf2NMNjTAg:1662029781586&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjj5PK1t_P5AhU9XvEDHeBADoUQ_AUoBHoECAEQBg&biw=1880&bih=939&dpr=1#imgrc=JeZwxbEIlfZw3M&imgdii=lxMTS3nm-xcHqM" target="_blank"> google.com - Image: Using and implementing the Internet Explorer 4 common controls in building the MFC Windows browser based </a></li>
+<li><a href="" target="_blank"> google.com - Image: </a></li>
+<li><a href="" target="_blank"> google.com - Image: </a></li>
+<li><a href="" target="_blank"> google.com - Image: </a></li>
+<li><a href="" target="_blank"> google.com - Image: </a></li>
+<li><a href="" target="_blank"> google.com - Image: </a></li>
+<li><a href="" target="_blank"> google.com - Image: </a></li>
+<li><a href="" target="_blank"> google.com - Image: </a></li>
+<li><a href="" target="_blank"> google.com - Image: </a></li>
+<li><a href="" target="_blank"> google.com - Image: </a></li>
+<li><a href="" target="_blank"> google.com - Image: </a></li>
+<li><a href="" target="_blank"> google.com - Image: </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> youtube.com - </a></li>
+<li><a href="" target="_blank"> youtube.com - </a></li>
+<li><a href="" target="_blank"> youtube.com - </a></li>
+<li><a href="" target="_blank"> youtube.com - </a></li>
+<li><a href="" target="_blank"> youtube.com - </a></li>
+<li><a href="" target="_blank"> youtube.com - </a></li>
+<li><a href="" target="_blank"> youtube.com - </a></li>
+<li><a href="" target="_blank"> youtube.com - </a></li>
+<li><a href="" target="_blank"> youtube.com - </a></li>
+<li><a href="" target="_blank"> youtube.com - </a></li>
+<li><a href="" target="_blank"> youtube.com - </a></li>
+<li><a href="" target="_blank"> youtube.com - </a></li>
+<li><a href="" target="_blank"> youtube.com - </a></li>
+<li><a href="" target="_blank"> youtube.com - </a></li>
+<li><a href="" target="_blank"> youtube.com - </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="https://www.codeproject.com/Articles/48575/How-to-Define-a-Template-Class-in-a-h-File-and-Imp" target="_blank"> codeproject.com - How to Define a Template Class in a .h File and Implement it in a .cpp File Febil Chacko Thanikal 22 Dec 2009 </a></li>
+<li><a href="https://www.codeproject.com/Articles/28806/SMTP-Client" target="_blank"> codeproject.com - SMTP Client Jakub Piwowarczyk 16 Jul 2010 </a></li>
+<li><a href="https://www.codeproject.com/Articles/620045/Custom-Controls-in-Win-API-Visual-Styles" target="_blank"> codeproject.com - 
+CodeProject Custom Controls in Win32 API: Visual Styles - CodeProject Martin Mitáš 2014 </a></li>
+<li><a href="http://www.codeproject.com/KB/winsdk/Win32SDK_C_TabCtrl/Win32_SDK_C_TabControl_demo.zip" target="_blank"> codeproject.com - Win32SDK_C_TabCtrl </a></li>
+<li><a href="http://www.codeproject.com/KB/winsdk/Win32SDK_C_TabCtrl/Win32_SDK_C_TabControl_source.zip" target="_blank"> codeproject.com - Win32_SDK_C_TabControl_source.zip </a></li>
+<li><a href="" target="_blank"> codeproject.com - </a></li>
+<li><a href="https://www.codeproject.com/Questions/474799/Howplusworkpluswithplusclassplusthatplusgeneratedp" target="_blank"> codeproject.com - How work with class that generated by ATL OLE DB wizard </a></li>
+<li><a href="" target="_blank"> codeproject.com - </a></li>
+<li><a href="" target="_blank"> codeproject.com - </a></li>
+<li><a href="" target="_blank"> codeproject.com - </a></li>
+<li><a href="" target="_blank"> codeproject.com - </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="https://ru.stackoverflow.com/questions/921312/Программа-запускается-через-раз-0xc0000005-c" target="_blank"> ru.stackoverflow.com - Программа запускается через раз 0xc0000005 C++ </a></li>
+<li><a href="https://cplusplus.com/forum/windows/219838/" target="_blank"> cplusplus.com - CreateWindowsEx made window without closing button </a></li>
+<li><a href="https://github.com/RustNow/Rust-Win32-SampleApp/blob/lab1/src/main.rs" target="_blank"> github.com - RustNow Rust-Win32-SampleApp </a></li>
+<li><a href="https://pages.mini.pw.edu.pl/~aszklarp/archiwum/2018/pige/Lecture9.pdf" target="_blank"> pages.mini.pw.edu.pl - Programming in Graphical Environment </a></li>
+<li><a href="https://github.com/mity/mctrl" target="_blank"> github.com - mity mctrl </a></li>
+<li><a href="https://blog.exodusintel.com/2019/05/17/windows-within-windows/" target="_blank"> blog.exodusintel.com - Leaking the Address of pPopupMenu for Write Address Calculations </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="https://www.bing.com/search?q=C%2b%2b+typedef+HWND__+*HWND" target="_blank"> bing.com - C++ typedef HWND__ *HWND </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="https://stackoverflow.com/questions/62541121/why-is-id2d1factorygetdesktopdpi-obsolete" target="_blank"> stackoverflow.com - Why is ID2D1Factory::GetDesktopDpi obsolete </a></li>
+<li><a href="https://www.anycodings.com/1questions/1594176/why-is-id2d1factorygetdesktopdpi-obsolete" target="_blank"> anycodings.com - Why is ID2D1Factory::GetDesktopDpi obsolete </a></li>
+<li><a href="https://isocpp.org/wiki/faq/templates" target="_blank"> isocpp.org - What’s the idea behind templates </a></li>
+<li><a href="https://stackoverflow.com/questions/115703/storing-c-template-function-definitions-in-a-cpp-file" target="_blank"> stackoverflow.com - Storing C++ template function definitions in a .CPP file </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="https://www.cyberforum.ru/cpp-beginners/thread2153521.html" target="_blank"> cyberforum.ru -  В чем ошибка error LNK2019: ссылка на неразрешенный внешний символ public: __thiscall Point::Point(void) 10.12.2017, 01:43 </a></li>
+<li><a href="https://ru.stackoverflow.com/questions/496659/Проблема-с-неразрешенным-внешним-символом" target="_blank"> ru.stackoverflow.com - Проблема с неразрешенным внешним символом  </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="https://stackoverflow.com/questions/7405740/how-can-i-initialize-base-class-member-variables-in-derived-class-constructor" target="_blank"> stackoverflow.com - How can I initialize base class member variables in derived class constructor </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="https://www.appsloveworld.com/cplus/100/209/template-base-class-initialization" target="_blank"> appsloveworld.com - MSVC++ is not correct. Base is a template, not a type. </a></li>
+<li><a href="http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci235/lecture_notes/chapter_08.pdf" target="_blank"> compsci.hunter.cuny.edu - PDF  Constructors, Copy Constructors, and Destructors </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="http://electe.blogspot.com/2011/08/c.html" target="_blank"> electe.blogspot.com - Программа для вывода графика на языке C++ </a></li>
+<li><a href="https://hahahia.tistory.com/130" target="_blank"> hahahia.tistory.com -  </a></li>
+<li><a href="http://ondoc.logand.com/d/878/pdf" target="_blank"> ondoc.logand.com - Step by Step: Writing Simple Windows Applications </a></li>
+<li><a href="https://docs.microsoft.com/en-us/windows/win32/controls/tab-controls" target="_blank"> docs.microsoft.com - docs.microsoft.com </a></li>
+<li><a href="https://github.com/mity/theme-explorer" target="_blank"> github.com - mity theme-explorer 2021 </a></li>
+<li><a href="https://www.tenouk.com/visualcplusmfc/visualcplusmfc19.html" target="_blank"> tenouk.com - Internet Explorer 4 Common Controls 1 </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="https://stackoverflow.com/questions/62503418/adding-different-components-in-tab-control-win32" target="_blank"> stackoverflow.com - Adding Different Components in Tab Control Win32 </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="https://www.cyberforum.ru/win-api/thread359584.html" target="_blank"> cyberforum.ru - TabControl 02.10.2011, 21:33. </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="https://github.com/MicrosoftDocs/win32/blob/docs/desktop-src/Controls/create-a-list-view-control.md" target="_blank"> github.com - MicrosoftDocs win32 </a></li>
+<li><a href="https://www.cyberforum.ru/win-api/thread1845757.html" target="_blank"> cyberforum.ru - Поместить ListView главное окно 09.11.2016, 12:37. </a></li>
+<li><a href="https://cplusplus.com/forum/windows/184872/" target="_blank"> cplusplus.com - BOOL InsertListViewItem </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="https://cpp.hotexamples.com/examples/-/TabControl/-/cpp-tabcontrol-class-examples.html" target="_blank"> cpp.hotexamples.com - C++ (Cpp) TabControl Examples </a></li>
+<li><a href="https://forums.codeguru.com/showthread.php?529633-Paint-on-a-Tabcontrol" target="_blank"> forums.codeguru.com - Re: Paint on a Tabcontrol November 26th, 2012, 04:56 AM </a></li>
+<li><a href="https://pastebin.com/kuTeugNM" target="_blank"> pastebin.com - ATOM MyRegisterClass(HINSTANCE hInstance) </a></li>
+<li><a href="https://docs.microsoft.com/ru-ru/windows/win32/controls/create-a-tab-control-in-the-main-window" target="_blank"> docs.microsoft.com - Создание элемента управления tab в главном окне Статья 11.05.2022 </a></li>
+<li><a href="https://www.appsloveworld.com/cplus/100/1191/adding-different-components-in-tab-control-win32" target="_blank"> appsloveworld.com - SOLVED-ADDING DIFFERENT COMPONENTS IN TAB CONTROL WIN32-C++ </a></li>
+<li><a href="https://www.technical-recipes.com/2015/creating-a-tabbed-dialog-using-the-windows-api/" target="_blank"> technical-recipes.com - Creating a Tabbed Dialog using the Windows API Andy  31 May 2015 </a></li>
+<li><a href="https://blog.csdn.net/plutus_sutulp/article/details/8580584" target="_blank"> blog.csdn.net - Win32 SDK C Tab Control Made Easy By  David MacDermot,  18 Jun 2009 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!  </a></li>
+<li><a href="https://cplusplus.com/forum/windows/183539/" target="_blank"> cplusplus.com -  C, Win32 API: l need help on Owner draw </a></li>
+<li><a href="https://forums.codeguru.com/showthread.php?562851-Change-the-background-for-each-tab" target="_blank"> forums.codeguru.com - Change the background for each tab </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="https://stackoverflow.com/questions/23306475/how-to-update-row-data-fetched-using-atl-ole-database-in-c-from-simple-sql-ser" target="_blank"> stackoverflow.com - how to update row data fetched using ATL OLE database in C++ from simple SQL server table </a></li>
+<li><a href="https://www.sqlservercentral.com/forums/topic/sql-server-error-there-are-no-rows-in-the-current-fetch-buffer-1" target="_blank"> sqlservercentral.com - SQL Server Error 'There are no rows in the current fetch buffer' </a></li>
+<li><a href="https://groups.google.com/g/microsoft.public.data.oledb/c/pRZ43dnAipw" target="_blank"> groups.google.com - OLE DB CAccessor problem </a></li>
+<li><a href="https://forums.codeguru.com/showthread.php?191448-Calling-a-Stored-Procedure-using-Ole-DB-on-SQL-server-2000" target="_blank"> forums.codeguru.com  - Calling a Stored Procedure using Ole DB on SQL server 2000 </a></li>
+<li><a href="https://rsdn.org/forum/db/3277819.hot" target="_blank"> rsdn.org -  Re: Работа с БД в Visual C++ </a></li>
+<li><a href="https://assets.ctfassets.net/9pcn2syx7zns/6222AtRn7ciuVLKnlm1cJS/a3ff4995aea1e38abcb2500b9533dc8b/data-access.pdf" target="_blank"> assets.ctfassets.net - PDF data-access.pdf </a></li>
+<li><a href="https://www.developer.com/database/using-database-engines-in-a-mobile-application/" target="_blank"> developer.com - Using Database Engines in a Mobile Application
+Alex Gusev By Alex Gusev May 17, 2004 </a></li>
+<li><a href="https://github.com/dblock/msiext/blob/master/externals/WinDDK/7600.16385.1/inc/atl71/atldbcli.h" target="_blank"> github.com - dblock msiext </a></li>
+<li><a href="https://www.796t.com/post/ankyems=.html" target="_blank"> 796t.com - c++ 如何更新從簡單的SQL Server表中使用C++中的ATL OLE資料庫獲取的行資料 </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> ******************************************** 2 сентября 2022 Пятница *********************************************** </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> google.com - </a></li>
+<li><a href="" target="_blank"> google.com - </a></li>
+<li><a href="" target="_blank"> google.com - </a></li>
+<li><a href="" target="_blank"> google.com - </a></li>
+<li><a href="" target="_blank"> google.com - </a></li>
+<li><a href="" target="_blank"> google.com - </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> google.com - Image: </a></li>
+<li><a href="" target="_blank"> google.com - Image: </a></li>
+<li><a href="" target="_blank"> google.com - Image: </a></li>
+<li><a href="" target="_blank"> google.com - Image: </a></li>
+<li><a href="" target="_blank"> google.com - Image: </a></li>
+<li><a href="" target="_blank"> google.com - Image: </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> youtube.com - </a></li>
+<li><a href="" target="_blank"> youtube.com - </a></li>
+<li><a href="" target="_blank"> youtube.com - </a></li>
+<li><a href="" target="_blank"> youtube.com - </a></li>
+<li><a href="" target="_blank"> youtube.com - </a></li>
+<li><a href="" target="_blank"> youtube.com - </a></li>
+<li><a href="" target="_blank"> youtube.com - </a></li>
+<li><a href="" target="_blank"> youtube.com - </a></li>
+<li><a href="" target="_blank"> youtube.com - </a></li>
+<li><a href="" target="_blank"> youtube.com - </a></li>
+<li><a href="" target="_blank"> youtube.com - </a></li>
+<li><a href="" target="_blank"> youtube.com - </a></li>
+<li><a href="" target="_blank"> youtube.com - </a></li>
+<li><a href="" target="_blank"> youtube.com - </a></li>
+<li><a href="" target="_blank"> youtube.com - </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> codeproject.com - </a></li>
+<li><a href="" target="_blank"> codeproject.com - </a></li>
+<li><a href="" target="_blank"> codeproject.com - </a></li>
+<li><a href="" target="_blank"> codeproject.com - </a></li>
+<li><a href="" target="_blank"> codeproject.com - </a></li>
+<li><a href="" target="_blank"> codeproject.com - </a></li>
+<li><a href="" target="_blank"> codeproject.com - </a></li>
+<li><a href="" target="_blank"> codeproject.com - </a></li>
+<li><a href="" target="_blank"> codeproject.com - </a></li>
+<li><a href="" target="_blank"> codeproject.com - </a></li>
+<li><a href="" target="_blank"> codeproject.com - </a></li>
+<li><a href="" target="_blank"> codeproject.com - </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
+<li><a href="" target="_blank"> </a></li>
