@@ -1,1 +1,1 @@
-mtfind.exe test3.txt z2
+mtfind.exe test3.txt gue???

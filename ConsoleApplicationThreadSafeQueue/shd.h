@@ -1,6 +1,7 @@
 #pragma once
 
 #include "thr_safe.h"
+#include "tsmap.h"
 #include "libh.h"
 
 // колличетво строк для хранения
@@ -23,7 +24,7 @@ public:
 
 // тип потокобезопасной карты для хранения всех найденных строк
 //typedef contfree_safe_ptr<std::map<int, InfoSearchStroka>> map_InfoSearchStroki;
-typedef map<int, InfoSearchStroka> map_InfoSearchStroki;
+typedef tsmap<int, InfoSearchStroka> map_InfoSearchStroki;
 
 
 // блок строк  для обработки воркерами

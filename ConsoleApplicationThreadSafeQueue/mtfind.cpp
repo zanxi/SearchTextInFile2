@@ -35,7 +35,7 @@ int main(int argc, char** argv)
         //cout << "Not arguments" << endl;
         //mask = "System.?o";
         //mask = "CAA";
-        mask = "aB";
+        mask = "123";
         fname = "test5.txt";
         cout << "file: " << fname << " | mask: " << mask << '\n' << endl;
         //fname = "test2__.txt";

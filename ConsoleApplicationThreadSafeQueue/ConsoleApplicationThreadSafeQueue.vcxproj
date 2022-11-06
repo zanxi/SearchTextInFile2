@@ -146,10 +146,12 @@
   <ItemGroup>
     <ClInclude Include="libh.h" />
     <ClInclude Include="Output.h" />
+    <ClInclude Include="ReadersWriterLock.h" />
     <ClInclude Include="ReadingFile.h" />
     <ClInclude Include="Search.h" />
     <ClInclude Include="shd.h" />
     <ClInclude Include="thr_safe.h" />
+    <ClInclude Include="tsmap.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
